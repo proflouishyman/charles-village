@@ -1,0 +1,862 @@
+{
+  "v": 1,
+  "id": "charles-moth",
+  "title": "Charles and the Moth",
+  "subtitle": "A Minecraft Tale",
+  "focus_letters": [
+    "d",
+    "p",
+    "m"
+  ],
+  "pages": [
+    {
+      "text": "Charles and Dad went up a path.",
+      "art": {
+        "bg": "hill",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 24,
+            "id": "c"
+          },
+          {
+            "who": "dad",
+            "x": 52,
+            "id": "dad"
+          }
+        ],
+        "props": [
+          {
+            "what": "pickaxe",
+            "x": 24,
+            "y": "held",
+            "by": "c",
+            "id": "pick"
+          },
+          {
+            "what": "tree",
+            "x": 88
+          }
+        ]
+      }
+    },
+    {
+      "text": "Charles had a pick with him.",
+      "art": {
+        "bg": "hill",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 40,
+            "id": "c",
+            "scale": 1.2
+          },
+          {
+            "who": "dad",
+            "x": 78,
+            "flip": true,
+            "id": "dad"
+          }
+        ],
+        "props": [
+          {
+            "what": "pickaxe",
+            "x": 40,
+            "y": "held",
+            "by": "c",
+            "id": "pick"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Dad had a rod with him.",
+      "art": {
+        "bg": "hill",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 32,
+            "id": "c"
+          },
+          {
+            "who": "dad",
+            "x": 60,
+            "id": "dad"
+          }
+        ],
+        "props": [
+          {
+            "what": "rod",
+            "x": 60,
+            "y": "held",
+            "by": "dad",
+            "id": "rod",
+            "scale": 0.8
+          },
+          {
+            "what": "pine",
+            "x": 10
+          }
+        ]
+      }
+    },
+    {
+      "text": "A moth sat on the pick.",
+      "art": {
+        "bg": "hill",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 36,
+            "id": "c"
+          },
+          {
+            "who": "dad",
+            "x": 74,
+            "flip": true,
+            "id": "dad"
+          }
+        ],
+        "props": [
+          {
+            "what": "pickaxe",
+            "x": 36,
+            "y": "held",
+            "by": "c",
+            "id": "pick"
+          },
+          {
+            "what": "moth",
+            "x": 36,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "on",
+            "on": "pick"
+          }
+        ]
+      }
+    },
+    {
+      "text": "\"Dad, a moth!\" said Charles.",
+      "art": {
+        "bg": "hill",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 22,
+            "pose": "jump",
+            "id": "c"
+          },
+          {
+            "who": "dad",
+            "x": 50,
+            "id": "dad"
+          }
+        ],
+        "props": [
+          {
+            "what": "moth",
+            "x": 76,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "air"
+          }
+        ],
+        "fx": [
+          {
+            "fx": "text",
+            "text": "Dad, a moth!",
+            "near": "c",
+            "style": "say",
+            "side": "right"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Whip! The moth shot up.",
+      "art": {
+        "bg": "hill",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 22,
+            "id": "c"
+          },
+          {
+            "who": "dad",
+            "x": 72,
+            "flip": true,
+            "id": "dad"
+          }
+        ],
+        "props": [
+          {
+            "what": "pickaxe",
+            "x": 22,
+            "y": "held",
+            "by": "c",
+            "id": "pick"
+          },
+          {
+            "what": "moth",
+            "x": 48,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "air"
+          }
+        ],
+        "fx": [
+          {
+            "fx": "text",
+            "text": "WHIP!",
+            "near": "moth"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Charles and Dad ran up the path with the moth.",
+      "art": {
+        "bg": "hill",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 24,
+            "pose": "run",
+            "id": "c"
+          },
+          {
+            "who": "dad",
+            "x": 52,
+            "pose": "run",
+            "id": "dad"
+          }
+        ],
+        "props": [
+          {
+            "what": "pickaxe",
+            "x": 24,
+            "y": "held",
+            "by": "c",
+            "id": "pick"
+          },
+          {
+            "what": "moth",
+            "x": 84,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "air"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The path went to a pond.",
+      "art": {
+        "bg": "pond",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 16,
+            "id": "c"
+          },
+          {
+            "who": "dad",
+            "x": 36,
+            "id": "dad"
+          }
+        ],
+        "props": [
+          {
+            "what": "moth",
+            "x": 62,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "air"
+          },
+          {
+            "what": "log",
+            "x": 86
+          }
+        ]
+      }
+    },
+    {
+      "text": "A duck had a bath in the pond.",
+      "art": {
+        "bg": "pond",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 14,
+            "id": "c"
+          },
+          {
+            "who": "dad",
+            "x": 34,
+            "id": "dad"
+          }
+        ],
+        "props": [
+          {
+            "what": "duck",
+            "x": 72,
+            "y": "water",
+            "id": "duck"
+          },
+          {
+            "what": "moth",
+            "x": 52,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "air"
+          }
+        ],
+        "fx": [
+          {
+            "fx": "splash",
+            "near": "duck"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Then a creeper got on the path.",
+      "art": {
+        "bg": "pond",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 16,
+            "id": "c"
+          },
+          {
+            "who": "dad",
+            "x": 36,
+            "id": "dad"
+          },
+          {
+            "who": "creeper",
+            "x": 78,
+            "flip": true,
+            "scale": 0.9,
+            "id": "cr"
+          }
+        ],
+        "props": [
+          {
+            "what": "moth",
+            "x": 56,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "air"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Hiss! What a shock!",
+      "art": {
+        "bg": "pond",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 24,
+            "pose": "jump",
+            "id": "c"
+          },
+          {
+            "who": "creeper",
+            "x": 52,
+            "id": "cr"
+          },
+          {
+            "who": "dad",
+            "x": 88,
+            "flip": true,
+            "id": "dad"
+          }
+        ],
+        "props": [
+          {
+            "what": "moth",
+            "x": 76,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "air"
+          }
+        ],
+        "fx": [
+          {
+            "fx": "text",
+            "text": "HISS!",
+            "near": "cr"
+          }
+        ]
+      }
+    },
+    {
+      "text": "\"Kick it, Charles!\" said Dad.",
+      "art": {
+        "bg": "pond",
+        "actors": [
+          {
+            "who": "dad",
+            "x": 12,
+            "id": "dad"
+          },
+          {
+            "who": "charles",
+            "x": 42,
+            "id": "c"
+          },
+          {
+            "who": "creeper",
+            "x": 76,
+            "flip": true,
+            "id": "cr"
+          }
+        ],
+        "props": [
+          {
+            "what": "moth",
+            "x": 60,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "air"
+          }
+        ],
+        "fx": [
+          {
+            "fx": "text",
+            "text": "Kick it, Charles!",
+            "near": "dad",
+            "style": "say",
+            "side": "right"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Kick! Charles did a big kick.",
+      "art": {
+        "bg": "pond",
+        "actors": [
+          {
+            "who": "dad",
+            "x": 12,
+            "id": "dad"
+          },
+          {
+            "who": "charles",
+            "x": 44,
+            "pose": "run",
+            "id": "c"
+          },
+          {
+            "who": "creeper",
+            "x": 74,
+            "flip": true,
+            "id": "cr"
+          }
+        ],
+        "props": [
+          {
+            "what": "moth",
+            "x": 26,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "air"
+          }
+        ],
+        "fx": [
+          {
+            "fx": "text",
+            "text": "KICK!",
+            "near": "cr"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Splash! The creeper fell in the pond.",
+      "art": {
+        "bg": "pond",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 30,
+            "id": "c"
+          },
+          {
+            "who": "dad",
+            "x": 12,
+            "id": "dad"
+          }
+        ],
+        "props": [
+          {
+            "what": "creeper",
+            "x": 72,
+            "y": "water",
+            "scale": 0.7,
+            "id": "cr"
+          },
+          {
+            "what": "splash_big",
+            "x": 72,
+            "y": "water"
+          },
+          {
+            "what": "moth",
+            "x": 50,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "air"
+          }
+        ],
+        "fx": [
+          {
+            "fx": "text",
+            "text": "SPLASH!",
+            "near": "cr"
+          }
+        ]
+      }
+    },
+    {
+      "text": "A wet creeper can not go boom.",
+      "art": {
+        "bg": "pond",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 20,
+            "id": "c"
+          },
+          {
+            "who": "dad",
+            "x": 42,
+            "id": "dad"
+          }
+        ],
+        "props": [
+          {
+            "what": "creeper",
+            "x": 76,
+            "y": "water",
+            "scale": 0.7,
+            "id": "cr"
+          },
+          {
+            "what": "splash_big",
+            "x": 76,
+            "y": "water"
+          },
+          {
+            "what": "moth",
+            "x": 60,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "air"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The moth sat on the wet creeper.",
+      "art": {
+        "bg": "pond",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 20,
+            "id": "c"
+          },
+          {
+            "who": "dad",
+            "x": 42,
+            "id": "dad"
+          }
+        ],
+        "props": [
+          {
+            "what": "creeper",
+            "x": 74,
+            "y": "water",
+            "scale": 0.7,
+            "id": "cr"
+          },
+          {
+            "what": "moth",
+            "x": 74,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "on",
+            "on": "cr"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Dad did a lash with his rod.",
+      "art": {
+        "bg": "pond",
+        "actors": [
+          {
+            "who": "dad",
+            "x": 34,
+            "id": "dad"
+          },
+          {
+            "who": "charles",
+            "x": 12,
+            "id": "c"
+          }
+        ],
+        "props": [
+          {
+            "what": "rod",
+            "x": 34,
+            "y": "held",
+            "by": "dad",
+            "id": "rod",
+            "line_to": "fish",
+            "scale": 0.8
+          },
+          {
+            "what": "fish",
+            "x": 74,
+            "y": "water",
+            "scale": 0.7,
+            "id": "fish"
+          },
+          {
+            "what": "moth",
+            "x": 56,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "air"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Whip! Dad got a fish.",
+      "art": {
+        "bg": "pond",
+        "actors": [
+          {
+            "who": "dad",
+            "x": 34,
+            "pose": "jump",
+            "id": "dad"
+          },
+          {
+            "who": "charles",
+            "x": 12,
+            "id": "c"
+          }
+        ],
+        "props": [
+          {
+            "what": "rod",
+            "x": 34,
+            "y": "held",
+            "by": "dad",
+            "id": "rod",
+            "line_to": "fish",
+            "scale": 0.8
+          },
+          {
+            "what": "fish",
+            "x": 66,
+            "y": "air",
+            "scale": 0.9,
+            "id": "fish"
+          },
+          {
+            "what": "splash_big",
+            "x": 66,
+            "y": "water"
+          },
+          {
+            "what": "moth",
+            "x": 82,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "air"
+          }
+        ],
+        "fx": [
+          {
+            "fx": "text",
+            "text": "WHIP!",
+            "near": "fish",
+            "side": "right"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Pick, pick, pick! Charles got gold with his pick.",
+      "art": {
+        "bg": "cave",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 30,
+            "pose": "dig",
+            "id": "c"
+          }
+        ],
+        "props": [
+          {
+            "what": "pickaxe",
+            "x": 30,
+            "y": "held",
+            "by": "c",
+            "id": "pick"
+          },
+          {
+            "what": "stone",
+            "x": 56
+          },
+          {
+            "what": "gold",
+            "x": 78
+          },
+          {
+            "what": "moth",
+            "x": 54,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "air"
+          }
+        ],
+        "fx": [
+          {
+            "fx": "text",
+            "text": "PICK! PICK!",
+            "near": "gold",
+            "size": 8
+          }
+        ]
+      }
+    },
+    {
+      "text": "Then Charles and Dad went back to the hut.",
+      "art": {
+        "bg": "grass",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 14,
+            "pose": "run",
+            "id": "c"
+          },
+          {
+            "who": "dad",
+            "x": 46,
+            "pose": "run",
+            "id": "dad"
+          }
+        ],
+        "props": [
+          {
+            "what": "hut",
+            "x": 84,
+            "scale": 0.8
+          },
+          {
+            "what": "moth",
+            "x": 74,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "air"
+          }
+        ]
+      }
+    },
+    {
+      "text": "Charles had a hot bath.",
+      "art": {
+        "bg": "inside_house",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 56,
+            "pose": "in",
+            "flip": true,
+            "scale": 0.8,
+            "id": "c",
+            "in": "tub"
+          },
+          {
+            "who": "dad",
+            "x": 16,
+            "id": "dad"
+          }
+        ],
+        "props": [
+          {
+            "what": "bathtub",
+            "x": 56,
+            "id": "tub"
+          },
+          {
+            "what": "steam",
+            "x": 56,
+            "y": "air"
+          }
+        ]
+      }
+    },
+    {
+      "text": "The moth had a bath with him!",
+      "art": {
+        "bg": "inside_house",
+        "actors": [
+          {
+            "who": "charles",
+            "x": 44,
+            "pose": "in",
+            "scale": 0.8,
+            "id": "c",
+            "in": "tub"
+          }
+        ],
+        "props": [
+          {
+            "what": "bathtub",
+            "x": 44,
+            "id": "tub"
+          },
+          {
+            "what": "moth",
+            "x": 44,
+            "scale": 0.8,
+            "id": "moth",
+            "y": "on",
+            "on": "c"
+          },
+          {
+            "what": "steam",
+            "x": 44,
+            "y": "air"
+          }
+        ],
+        "fx": [
+          {
+            "fx": "text",
+            "text": "BATH!",
+            "near": "moth",
+            "size": 8
+          }
+        ]
+      }
+    }
+  ]
+}
