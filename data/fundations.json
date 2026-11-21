@@ -1,0 +1,5096 @@
+{
+ "v": 1,
+ "source": "Fundations Level 1 Scope and Sequence, Teacher's Manual preface pp.37-39",
+ "rules": {
+  "boss_unlock_vanquished": 15,
+  "review_share": 0.3,
+  "golden_every": 20,
+  "session_items": 10
+ },
+ "units": [
+  {
+   "unit": 1,
+   "title": "Letters and sounds",
+   "skills": [
+    "letter-keyword-sound for consonants and short vowels",
+    "lowercase a-z",
+    "alphabetical order"
+   ],
+   "graphemes_new": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i",
+    "j",
+    "k",
+    "l",
+    "m",
+    "n",
+    "o",
+    "p",
+    "qu",
+    "r",
+    "s",
+    "t",
+    "u",
+    "v",
+    "w",
+    "x",
+    "y",
+    "z"
+   ],
+   "sounds_new": [
+    {
+     "card": "b",
+     "say": "/b/ as in bat"
+    },
+    {
+     "card": "c",
+     "say": "/k/ as in cat"
+    },
+    {
+     "card": "d",
+     "say": "/d/ as in dog"
+    },
+    {
+     "card": "f",
+     "say": "/f/ as in fish"
+    },
+    {
+     "card": "g",
+     "say": "/g/ as in go"
+    },
+    {
+     "card": "h",
+     "say": "/h/ as in hat"
+    },
+    {
+     "card": "j",
+     "say": "/j/ as in jump"
+    },
+    {
+     "card": "k",
+     "say": "/k/ as in kite"
+    },
+    {
+     "card": "l",
+     "say": "/l/ as in leg"
+    },
+    {
+     "card": "m",
+     "say": "/m/ as in man"
+    },
+    {
+     "card": "n",
+     "say": "/n/ as in net"
+    },
+    {
+     "card": "p",
+     "say": "/p/ as in pig"
+    },
+    {
+     "card": "qu",
+     "say": "/kw/ as in queen"
+    },
+    {
+     "card": "r",
+     "say": "/r/ as in run"
+    },
+    {
+     "card": "s",
+     "say": "/s/ as in sun"
+    },
+    {
+     "card": "t",
+     "say": "/t/ as in top"
+    },
+    {
+     "card": "v",
+     "say": "/v/ as in van"
+    },
+    {
+     "card": "w",
+     "say": "/w/ as in web"
+    },
+    {
+     "card": "x",
+     "say": "/ks/ as in box"
+    },
+    {
+     "card": "y",
+     "say": "/y/ as in yes"
+    },
+    {
+     "card": "z",
+     "say": "/z/ as in zip"
+    },
+    {
+     "card": "a",
+     "say": "/ă/ as in apple"
+    },
+    {
+     "card": "e",
+     "say": "/ĕ/ as in egg"
+    },
+    {
+     "card": "i",
+     "say": "/ĭ/ as in itch"
+    },
+    {
+     "card": "o",
+     "say": "/ŏ/ as in octopus"
+    },
+    {
+     "card": "u",
+     "say": "/ŭ/ as in up"
+    }
+   ],
+   "trick_words_new": [],
+   "regular_hfw": [],
+   "sample_words": [],
+   "items": [
+    {
+     "text": "a",
+     "kind": "letter"
+    },
+    {
+     "text": "b",
+     "kind": "letter"
+    },
+    {
+     "text": "c",
+     "kind": "letter"
+    },
+    {
+     "text": "d",
+     "kind": "letter"
+    },
+    {
+     "text": "e",
+     "kind": "letter"
+    },
+    {
+     "text": "f",
+     "kind": "letter"
+    },
+    {
+     "text": "g",
+     "kind": "letter"
+    },
+    {
+     "text": "h",
+     "kind": "letter"
+    },
+    {
+     "text": "i",
+     "kind": "letter"
+    },
+    {
+     "text": "j",
+     "kind": "letter"
+    },
+    {
+     "text": "k",
+     "kind": "letter"
+    },
+    {
+     "text": "l",
+     "kind": "letter"
+    },
+    {
+     "text": "m",
+     "kind": "letter"
+    },
+    {
+     "text": "n",
+     "kind": "letter"
+    },
+    {
+     "text": "o",
+     "kind": "letter"
+    },
+    {
+     "text": "p",
+     "kind": "letter"
+    },
+    {
+     "text": "r",
+     "kind": "letter"
+    },
+    {
+     "text": "s",
+     "kind": "letter"
+    },
+    {
+     "text": "t",
+     "kind": "letter"
+    },
+    {
+     "text": "u",
+     "kind": "letter"
+    },
+    {
+     "text": "v",
+     "kind": "letter"
+    },
+    {
+     "text": "w",
+     "kind": "letter"
+    },
+    {
+     "text": "x",
+     "kind": "letter"
+    },
+    {
+     "text": "y",
+     "kind": "letter"
+    },
+    {
+     "text": "z",
+     "kind": "letter"
+    },
+    {
+     "text": "qu",
+     "kind": "letter"
+    }
+   ],
+   "forge": [
+    {
+     "word": "map",
+     "blank": "m",
+     "choices": [
+      "m",
+      "n"
+     ]
+    },
+    {
+     "word": "bed",
+     "blank": "b",
+     "choices": [
+      "b",
+      "d"
+     ]
+    },
+    {
+     "word": "pig",
+     "blank": "p",
+     "choices": [
+      "p",
+      "b"
+     ]
+    },
+    {
+     "word": "dog",
+     "blank": "d",
+     "choices": [
+      "d",
+      "b"
+     ]
+    },
+    {
+     "word": "cat",
+     "blank": "c",
+     "choices": [
+      "c",
+      "t"
+     ]
+    },
+    {
+     "word": "sun",
+     "blank": "s",
+     "choices": [
+      "s",
+      "z"
+     ]
+    },
+    {
+     "word": "fox",
+     "blank": "f",
+     "choices": [
+      "f",
+      "v"
+     ]
+    },
+    {
+     "word": "jet",
+     "blank": "j",
+     "choices": [
+      "j",
+      "g"
+     ]
+    },
+    {
+     "word": "hen",
+     "blank": "h",
+     "choices": [
+      "h",
+      "n"
+     ]
+    },
+    {
+     "word": "vet",
+     "blank": "v",
+     "choices": [
+      "v",
+      "f"
+     ]
+    },
+    {
+     "word": "tub",
+     "blank": "t",
+     "choices": [
+      "t",
+      "d"
+     ]
+    },
+    {
+     "word": "web",
+     "blank": "w",
+     "choices": [
+      "w",
+      "m"
+     ]
+    }
+   ],
+   "sentences": [],
+   "boss": {
+    "overworld": "spider",
+    "nether": "blaze"
+   }
+  },
+  {
+   "unit": 2,
+   "title": "Short vowel words",
+   "skills": [
+    "blend, read and spell 3-sound short-vowel words",
+    "period"
+   ],
+   "graphemes_new": [
+    "cvc"
+   ],
+   "sounds_new": [],
+   "trick_words_new": [
+    "the",
+    "a",
+    "and",
+    "is",
+    "his",
+    "of"
+   ],
+   "regular_hfw": [
+    "sat",
+    "fun",
+    "leg",
+    "him",
+    "box",
+    "yes"
+   ],
+   "sample_words": [
+    "map",
+    "lit",
+    "job",
+    "fix",
+    "quit"
+   ],
+   "items": [
+    {
+     "text": "sat",
+     "kind": "skill"
+    },
+    {
+     "text": "fun",
+     "kind": "skill"
+    },
+    {
+     "text": "leg",
+     "kind": "skill"
+    },
+    {
+     "text": "him",
+     "kind": "skill"
+    },
+    {
+     "text": "box",
+     "kind": "skill"
+    },
+    {
+     "text": "yes",
+     "kind": "skill"
+    },
+    {
+     "text": "map",
+     "kind": "skill"
+    },
+    {
+     "text": "lit",
+     "kind": "skill"
+    },
+    {
+     "text": "job",
+     "kind": "skill"
+    },
+    {
+     "text": "fix",
+     "kind": "skill"
+    },
+    {
+     "text": "quit",
+     "kind": "skill"
+    },
+    {
+     "text": "cat",
+     "kind": "skill"
+    },
+    {
+     "text": "dog",
+     "kind": "skill"
+    },
+    {
+     "text": "pig",
+     "kind": "skill"
+    },
+    {
+     "text": "hen",
+     "kind": "skill"
+    },
+    {
+     "text": "bed",
+     "kind": "skill"
+    },
+    {
+     "text": "bug",
+     "kind": "skill"
+    },
+    {
+     "text": "sun",
+     "kind": "skill"
+    },
+    {
+     "text": "mob",
+     "kind": "skill"
+    },
+    {
+     "text": "hit",
+     "kind": "skill"
+    },
+    {
+     "text": "big",
+     "kind": "skill"
+    },
+    {
+     "text": "red",
+     "kind": "skill"
+    },
+    {
+     "text": "zip",
+     "kind": "skill"
+    },
+    {
+     "text": "jet",
+     "kind": "skill"
+    },
+    {
+     "text": "web",
+     "kind": "skill"
+    },
+    {
+     "text": "cub",
+     "kind": "skill"
+    },
+    {
+     "text": "fox",
+     "kind": "skill"
+    },
+    {
+     "text": "tap",
+     "kind": "skill"
+    },
+    {
+     "text": "hop",
+     "kind": "skill"
+    },
+    {
+     "text": "rip",
+     "kind": "skill"
+    },
+    {
+     "text": "nap",
+     "kind": "skill"
+    },
+    {
+     "text": "mud",
+     "kind": "skill"
+    },
+    {
+     "text": "pit",
+     "kind": "skill"
+    },
+    {
+     "text": "rug",
+     "kind": "skill"
+    },
+    {
+     "text": "wig",
+     "kind": "skill"
+    },
+    {
+     "text": "zap",
+     "kind": "skill"
+    },
+    {
+     "text": "pot",
+     "kind": "skill"
+    },
+    {
+     "text": "pen",
+     "kind": "skill"
+    },
+    {
+     "text": "tin",
+     "kind": "skill"
+    },
+    {
+     "text": "dig",
+     "kind": "skill"
+    },
+    {
+     "text": "hug",
+     "kind": "skill"
+    },
+    {
+     "text": "lid",
+     "kind": "skill"
+    },
+    {
+     "text": "cap",
+     "kind": "skill"
+    },
+    {
+     "text": "the",
+     "kind": "trick"
+    },
+    {
+     "text": "a",
+     "kind": "trick"
+    },
+    {
+     "text": "and",
+     "kind": "trick"
+    },
+    {
+     "text": "is",
+     "kind": "trick"
+    },
+    {
+     "text": "his",
+     "kind": "trick"
+    },
+    {
+     "text": "of",
+     "kind": "trick"
+    },
+    {
+     "text": "cup",
+     "kind": "skill"
+    },
+    {
+     "text": "bag",
+     "kind": "skill"
+    }
+   ],
+   "forge": [
+    {
+     "word": "sat",
+     "blank": "s",
+     "choices": [
+      "s",
+      "z"
+     ]
+    },
+    {
+     "word": "fun",
+     "blank": "f",
+     "choices": [
+      "f",
+      "v"
+     ]
+    },
+    {
+     "word": "leg",
+     "blank": "e",
+     "choices": [
+      "a",
+      "e",
+      "i"
+     ]
+    },
+    {
+     "word": "him",
+     "blank": "i",
+     "choices": [
+      "i",
+      "e",
+      "o"
+     ]
+    },
+    {
+     "word": "box",
+     "blank": "o",
+     "choices": [
+      "o",
+      "a",
+      "u"
+     ]
+    },
+    {
+     "word": "map",
+     "blank": "m",
+     "choices": [
+      "m",
+      "n"
+     ]
+    },
+    {
+     "word": "job",
+     "blank": "b",
+     "choices": [
+      "b",
+      "d",
+      "p"
+     ]
+    },
+    {
+     "word": "cat",
+     "blank": "a",
+     "choices": [
+      "a",
+      "e",
+      "u"
+     ]
+    },
+    {
+     "word": "pig",
+     "blank": "g",
+     "choices": [
+      "g",
+      "j"
+     ]
+    },
+    {
+     "word": "bug",
+     "blank": "u",
+     "choices": [
+      "u",
+      "a",
+      "o"
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "text": "Dad is big."
+    },
+    {
+     "text": "Tim hit the mob."
+    },
+    {
+     "text": "The pig is in the pit."
+    },
+    {
+     "text": "Max and Dad sit in the hut."
+    },
+    {
+     "text": "A red hen is in the pen."
+    },
+    {
+     "text": "Tim got a cup."
+    },
+    {
+     "text": "The cat is on a mat."
+    },
+    {
+     "text": "Dad hid the cup in the box."
+    },
+    {
+     "text": "Ben did zap the bug."
+    }
+   ],
+   "boss": {
+    "overworld": "witch",
+    "nether": "ghast"
+   }
+  },
+  {
+   "unit": 3,
+   "title": "Digraphs and question mark",
+   "skills": [
+    "digraphs wh ch sh th and ck (ck at the end)",
+    "question mark"
+   ],
+   "graphemes_new": [
+    "wh",
+    "ch",
+    "sh",
+    "th",
+    "ck"
+   ],
+   "sounds_new": [
+    {
+     "card": "wh",
+     "say": "/w/ as in whale"
+    },
+    {
+     "card": "ch",
+     "say": "/ch/ as in chin"
+    },
+    {
+     "card": "sh",
+     "say": "/sh/ as in ship"
+    },
+    {
+     "card": "th",
+     "say": "/th/ as in thin, or /th/ as in this"
+    },
+    {
+     "card": "ck",
+     "say": "/k/ as in duck"
+    }
+   ],
+   "trick_words_new": [
+    "as",
+    "has",
+    "to",
+    "into",
+    "we",
+    "he",
+    "she",
+    "be",
+    "me",
+    "for",
+    "or"
+   ],
+   "regular_hfw": [
+    "when",
+    "this",
+    "shop",
+    "such",
+    "back",
+    "wish"
+   ],
+   "sample_words": [
+    "wish",
+    "chop",
+    "sock"
+   ],
+   "items": [
+    {
+     "text": "when",
+     "kind": "skill"
+    },
+    {
+     "text": "this",
+     "kind": "skill"
+    },
+    {
+     "text": "shop",
+     "kind": "skill"
+    },
+    {
+     "text": "such",
+     "kind": "skill"
+    },
+    {
+     "text": "back",
+     "kind": "skill"
+    },
+    {
+     "text": "wish",
+     "kind": "skill"
+    },
+    {
+     "text": "chop",
+     "kind": "skill"
+    },
+    {
+     "text": "sock",
+     "kind": "skill"
+    },
+    {
+     "text": "chip",
+     "kind": "skill"
+    },
+    {
+     "text": "ship",
+     "kind": "skill"
+    },
+    {
+     "text": "shed",
+     "kind": "skill"
+    },
+    {
+     "text": "shut",
+     "kind": "skill"
+    },
+    {
+     "text": "thin",
+     "kind": "skill"
+    },
+    {
+     "text": "then",
+     "kind": "skill"
+    },
+    {
+     "text": "that",
+     "kind": "skill"
+    },
+    {
+     "text": "with",
+     "kind": "skill"
+    },
+    {
+     "text": "chin",
+     "kind": "skill"
+    },
+    {
+     "text": "check",
+     "kind": "skill"
+    },
+    {
+     "text": "duck",
+     "kind": "skill"
+    },
+    {
+     "text": "deck",
+     "kind": "skill"
+    },
+    {
+     "text": "kick",
+     "kind": "skill"
+    },
+    {
+     "text": "neck",
+     "kind": "skill"
+    },
+    {
+     "text": "pack",
+     "kind": "skill"
+    },
+    {
+     "text": "rock",
+     "kind": "skill"
+    },
+    {
+     "text": "sick",
+     "kind": "skill"
+    },
+    {
+     "text": "lock",
+     "kind": "skill"
+    },
+    {
+     "text": "whip",
+     "kind": "skill"
+    },
+    {
+     "text": "which",
+     "kind": "skill"
+    },
+    {
+     "text": "chat",
+     "kind": "skill"
+    },
+    {
+     "text": "chap",
+     "kind": "skill"
+    },
+    {
+     "text": "thud",
+     "kind": "skill"
+    },
+    {
+     "text": "math",
+     "kind": "skill"
+    },
+    {
+     "text": "bath",
+     "kind": "skill"
+    },
+    {
+     "text": "path",
+     "kind": "skill"
+    },
+    {
+     "text": "fish",
+     "kind": "skill"
+    },
+    {
+     "text": "dish",
+     "kind": "skill"
+    },
+    {
+     "text": "rush",
+     "kind": "skill"
+    },
+    {
+     "text": "mash",
+     "kind": "skill"
+    },
+    {
+     "text": "much",
+     "kind": "skill"
+    },
+    {
+     "text": "rich",
+     "kind": "skill"
+    },
+    {
+     "text": "hush",
+     "kind": "skill"
+    },
+    {
+     "text": "luck",
+     "kind": "skill"
+    },
+    {
+     "text": "tack",
+     "kind": "skill"
+    },
+    {
+     "text": "pick",
+     "kind": "skill"
+    },
+    {
+     "text": "shack",
+     "kind": "skill"
+    },
+    {
+     "text": "chick",
+     "kind": "skill"
+    },
+    {
+     "text": "thick",
+     "kind": "skill"
+    },
+    {
+     "text": "as",
+     "kind": "trick"
+    },
+    {
+     "text": "has",
+     "kind": "trick"
+    },
+    {
+     "text": "to",
+     "kind": "trick"
+    },
+    {
+     "text": "into",
+     "kind": "trick"
+    },
+    {
+     "text": "we",
+     "kind": "trick"
+    },
+    {
+     "text": "he",
+     "kind": "trick"
+    },
+    {
+     "text": "she",
+     "kind": "trick"
+    },
+    {
+     "text": "be",
+     "kind": "trick"
+    },
+    {
+     "text": "me",
+     "kind": "trick"
+    },
+    {
+     "text": "for",
+     "kind": "trick"
+    },
+    {
+     "text": "or",
+     "kind": "trick"
+    }
+   ],
+   "forge": [
+    {
+     "word": "ship",
+     "blank": "sh",
+     "choices": [
+      "sh",
+      "ch",
+      "th"
+     ]
+    },
+    {
+     "word": "chop",
+     "blank": "ch",
+     "choices": [
+      "ch",
+      "sh",
+      "th"
+     ]
+    },
+    {
+     "word": "sock",
+     "blank": "ck",
+     "choices": [
+      "ck",
+      "k",
+      "c"
+     ]
+    },
+    {
+     "word": "duck",
+     "blank": "ck",
+     "choices": [
+      "ck",
+      "c",
+      "k"
+     ]
+    },
+    {
+     "word": "fish",
+     "blank": "sh",
+     "choices": [
+      "sh",
+      "ch"
+     ]
+    },
+    {
+     "word": "thin",
+     "blank": "th",
+     "choices": [
+      "th",
+      "sh"
+     ]
+    },
+    {
+     "word": "whip",
+     "blank": "wh",
+     "choices": [
+      "wh",
+      "sh",
+      "ch"
+     ]
+    },
+    {
+     "word": "bath",
+     "blank": "th",
+     "choices": [
+      "th",
+      "sh"
+     ]
+    },
+    {
+     "word": "much",
+     "blank": "ch",
+     "choices": [
+      "ch",
+      "sh"
+     ]
+    },
+    {
+     "word": "back",
+     "blank": "ck",
+     "choices": [
+      "ck",
+      "k"
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "text": "Is the chick on the rock?"
+    },
+    {
+     "text": "Dad has a big shack."
+    },
+    {
+     "text": "Did he hit the mob?"
+    },
+    {
+     "text": "She has a red sock."
+    },
+    {
+     "text": "We chop a log."
+    },
+    {
+     "text": "Is this a rock or a log?"
+    },
+    {
+     "text": "He got into the shed."
+    },
+    {
+     "text": "Is the pig in the shed?"
+    },
+    {
+     "text": "Did the mob run to the shack?"
+    }
+   ],
+   "boss": {
+    "overworld": "phantom",
+    "nether": "magma_cube"
+   }
+  },
+  {
+   "unit": 4,
+   "title": "Bonus letters and ALL",
+   "skills": [
+    "bonus letters ff ll ss zz",
+    "glued sound all",
+    "exclamation point and quotation marks"
+   ],
+   "graphemes_new": [
+    "ff",
+    "ll",
+    "ss",
+    "zz",
+    "all"
+   ],
+   "sounds_new": [
+    {
+     "card": "ff",
+     "say": "/f/ as in off"
+    },
+    {
+     "card": "ll",
+     "say": "/l/ as in bell"
+    },
+    {
+     "card": "ss",
+     "say": "/s/ as in kiss"
+    },
+    {
+     "card": "zz",
+     "say": "/z/ as in buzz"
+    },
+    {
+     "card": "all",
+     "say": "/awl/ as in ball"
+    }
+   ],
+   "trick_words_new": [
+    "you",
+    "your",
+    "I",
+    "they",
+    "was",
+    "one",
+    "said"
+   ],
+   "regular_hfw": [
+    "off",
+    "fell",
+    "miss",
+    "call",
+    "less",
+    "all"
+   ],
+   "sample_words": [
+    "hill",
+    "puff",
+    "bill",
+    "miss",
+    "call"
+   ],
+   "items": [
+    {
+     "text": "off",
+     "kind": "skill"
+    },
+    {
+     "text": "fell",
+     "kind": "skill"
+    },
+    {
+     "text": "miss",
+     "kind": "skill"
+    },
+    {
+     "text": "call",
+     "kind": "skill"
+    },
+    {
+     "text": "less",
+     "kind": "skill"
+    },
+    {
+     "text": "all",
+     "kind": "skill"
+    },
+    {
+     "text": "hill",
+     "kind": "skill"
+    },
+    {
+     "text": "puff",
+     "kind": "skill"
+    },
+    {
+     "text": "bill",
+     "kind": "skill"
+    },
+    {
+     "text": "bell",
+     "kind": "skill"
+    },
+    {
+     "text": "doll",
+     "kind": "skill"
+    },
+    {
+     "text": "fill",
+     "kind": "skill"
+    },
+    {
+     "text": "will",
+     "kind": "skill"
+    },
+    {
+     "text": "dull",
+     "kind": "skill"
+    },
+    {
+     "text": "mill",
+     "kind": "skill"
+    },
+    {
+     "text": "tell",
+     "kind": "skill"
+    },
+    {
+     "text": "well",
+     "kind": "skill"
+    },
+    {
+     "text": "sell",
+     "kind": "skill"
+    },
+    {
+     "text": "hull",
+     "kind": "skill"
+    },
+    {
+     "text": "mass",
+     "kind": "skill"
+    },
+    {
+     "text": "pass",
+     "kind": "skill"
+    },
+    {
+     "text": "moss",
+     "kind": "skill"
+    },
+    {
+     "text": "boss",
+     "kind": "skill"
+    },
+    {
+     "text": "kiss",
+     "kind": "skill"
+    },
+    {
+     "text": "fuss",
+     "kind": "skill"
+    },
+    {
+     "text": "toss",
+     "kind": "skill"
+    },
+    {
+     "text": "huff",
+     "kind": "skill"
+    },
+    {
+     "text": "buff",
+     "kind": "skill"
+    },
+    {
+     "text": "jazz",
+     "kind": "skill"
+    },
+    {
+     "text": "fizz",
+     "kind": "skill"
+    },
+    {
+     "text": "buzz",
+     "kind": "skill"
+    },
+    {
+     "text": "fuzz",
+     "kind": "skill"
+    },
+    {
+     "text": "ball",
+     "kind": "skill"
+    },
+    {
+     "text": "tall",
+     "kind": "skill"
+    },
+    {
+     "text": "wall",
+     "kind": "skill"
+    },
+    {
+     "text": "fall",
+     "kind": "skill"
+    },
+    {
+     "text": "hall",
+     "kind": "skill"
+    },
+    {
+     "text": "mall",
+     "kind": "skill"
+    },
+    {
+     "text": "you",
+     "kind": "trick"
+    },
+    {
+     "text": "your",
+     "kind": "trick"
+    },
+    {
+     "text": "I",
+     "kind": "trick"
+    },
+    {
+     "text": "they",
+     "kind": "trick"
+    },
+    {
+     "text": "was",
+     "kind": "trick"
+    },
+    {
+     "text": "one",
+     "kind": "trick"
+    },
+    {
+     "text": "said",
+     "kind": "trick"
+    }
+   ],
+   "forge": [
+    {
+     "word": "hill",
+     "blank": "ll",
+     "choices": [
+      "l",
+      "ll"
+     ]
+    },
+    {
+     "word": "puff",
+     "blank": "ff",
+     "choices": [
+      "f",
+      "ff"
+     ]
+    },
+    {
+     "word": "miss",
+     "blank": "ss",
+     "choices": [
+      "s",
+      "ss"
+     ]
+    },
+    {
+     "word": "fell",
+     "blank": "ll",
+     "choices": [
+      "l",
+      "ll"
+     ]
+    },
+    {
+     "word": "off",
+     "blank": "ff",
+     "choices": [
+      "f",
+      "ff"
+     ]
+    },
+    {
+     "word": "less",
+     "blank": "ss",
+     "choices": [
+      "s",
+      "ss"
+     ]
+    },
+    {
+     "word": "buzz",
+     "blank": "zz",
+     "choices": [
+      "z",
+      "zz"
+     ]
+    },
+    {
+     "word": "fizz",
+     "blank": "zz",
+     "choices": [
+      "z",
+      "zz"
+     ]
+    },
+    {
+     "word": "bill",
+     "blank": "ll",
+     "choices": [
+      "l",
+      "ll"
+     ]
+    },
+    {
+     "word": "moss",
+     "blank": "ss",
+     "choices": [
+      "s",
+      "ss"
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "text": "\"Hit the big mob!\" said Dad."
+    },
+    {
+     "text": "\"Get the ball!\" said Dad."
+    },
+    {
+     "text": "I fell off the wall!"
+    },
+    {
+     "text": "The mob fell off."
+    },
+    {
+     "text": "\"Will you call Dad?\" said Ben."
+    },
+    {
+     "text": "Your doll is on the hill."
+    },
+    {
+     "text": "They hit the bell."
+    },
+    {
+     "text": "The big pig fell off the hill!"
+    },
+    {
+     "text": "The mob was on the hill."
+    },
+    {
+     "text": "You will sell the doll."
+    }
+   ],
+   "boss": {
+    "overworld": "ravager",
+    "nether": "hoglin"
+   }
+  },
+  {
+   "unit": 5,
+   "title": "Glued sounds am and an",
+   "skills": [
+    "glued sounds am and an"
+   ],
+   "graphemes_new": [
+    "am",
+    "an"
+   ],
+   "sounds_new": [
+    {
+     "card": "am",
+     "say": "/am/ as in ham"
+    },
+    {
+     "card": "an",
+     "say": "/an/ as in fan"
+    }
+   ],
+   "trick_words_new": [
+    "from",
+    "have",
+    "do",
+    "does"
+   ],
+   "regular_hfw": [
+    "am",
+    "an",
+    "can",
+    "man",
+    "ran",
+    "than"
+   ],
+   "sample_words": [
+    "ham",
+    "can",
+    "fan"
+   ],
+   "items": [
+    {
+     "text": "am",
+     "kind": "skill"
+    },
+    {
+     "text": "an",
+     "kind": "skill"
+    },
+    {
+     "text": "can",
+     "kind": "skill"
+    },
+    {
+     "text": "man",
+     "kind": "skill"
+    },
+    {
+     "text": "ran",
+     "kind": "skill"
+    },
+    {
+     "text": "than",
+     "kind": "skill"
+    },
+    {
+     "text": "ham",
+     "kind": "skill"
+    },
+    {
+     "text": "fan",
+     "kind": "skill"
+    },
+    {
+     "text": "jam",
+     "kind": "skill"
+    },
+    {
+     "text": "ram",
+     "kind": "skill"
+    },
+    {
+     "text": "yam",
+     "kind": "skill"
+    },
+    {
+     "text": "pan",
+     "kind": "skill"
+    },
+    {
+     "text": "van",
+     "kind": "skill"
+    },
+    {
+     "text": "tan",
+     "kind": "skill"
+    },
+    {
+     "text": "ban",
+     "kind": "skill"
+    },
+    {
+     "text": "dam",
+     "kind": "skill"
+    },
+    {
+     "text": "bam",
+     "kind": "skill"
+    },
+    {
+     "text": "ship",
+     "kind": "regular"
+    },
+    {
+     "text": "chop",
+     "kind": "regular"
+    },
+    {
+     "text": "back",
+     "kind": "regular"
+    },
+    {
+     "text": "bell",
+     "kind": "regular"
+    },
+    {
+     "text": "miss",
+     "kind": "regular"
+    },
+    {
+     "text": "fill",
+     "kind": "regular"
+    },
+    {
+     "text": "buzz",
+     "kind": "regular"
+    },
+    {
+     "text": "pass",
+     "kind": "regular"
+    },
+    {
+     "text": "thin",
+     "kind": "regular"
+    },
+    {
+     "text": "shed",
+     "kind": "regular"
+    },
+    {
+     "text": "rock",
+     "kind": "regular"
+    },
+    {
+     "text": "duck",
+     "kind": "regular"
+    },
+    {
+     "text": "from",
+     "kind": "trick"
+    },
+    {
+     "text": "have",
+     "kind": "trick"
+    },
+    {
+     "text": "do",
+     "kind": "trick"
+    },
+    {
+     "text": "does",
+     "kind": "trick"
+    }
+   ],
+   "forge": [
+    {
+     "word": "ham",
+     "blank": "am",
+     "choices": [
+      "am",
+      "an"
+     ]
+    },
+    {
+     "word": "can",
+     "blank": "an",
+     "choices": [
+      "an",
+      "am"
+     ]
+    },
+    {
+     "word": "fan",
+     "blank": "an",
+     "choices": [
+      "an",
+      "am"
+     ]
+    },
+    {
+     "word": "jam",
+     "blank": "am",
+     "choices": [
+      "am",
+      "an"
+     ]
+    },
+    {
+     "word": "ran",
+     "blank": "an",
+     "choices": [
+      "an",
+      "am"
+     ]
+    },
+    {
+     "word": "than",
+     "blank": "an",
+     "choices": [
+      "an",
+      "am"
+     ]
+    },
+    {
+     "word": "pan",
+     "blank": "an",
+     "choices": [
+      "am",
+      "an"
+     ]
+    },
+    {
+     "word": "ram",
+     "blank": "am",
+     "choices": [
+      "am",
+      "an"
+     ]
+    },
+    {
+     "word": "man",
+     "blank": "an",
+     "choices": [
+      "an",
+      "am"
+     ]
+    },
+    {
+     "word": "yam",
+     "blank": "am",
+     "choices": [
+      "am",
+      "an"
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "text": "I am a man."
+    },
+    {
+     "text": "I can have jam."
+    },
+    {
+     "text": "Do you have a pan?"
+    },
+    {
+     "text": "Does Dad have a van?"
+    },
+    {
+     "text": "The mob ran at me."
+    },
+    {
+     "text": "The man ran from the mob!"
+    },
+    {
+     "text": "Does the pig have a fan?"
+    },
+    {
+     "text": "I can fan the ham."
+    },
+    {
+     "text": "Dad ran from the van."
+    }
+   ],
+   "boss": {
+    "overworld": "drowned",
+    "nether": "piglin_brute"
+   }
+  },
+  {
+   "unit": 6,
+   "title": "Plurals with -s",
+   "skills": [
+    "base word plus suffix -s",
+    "plurals"
+   ],
+   "graphemes_new": [
+    "-s"
+   ],
+   "sounds_new": [],
+   "trick_words_new": [
+    "were",
+    "are",
+    "who",
+    "what",
+    "when",
+    "where",
+    "there",
+    "here"
+   ],
+   "regular_hfw": [
+    "fills",
+    "sits",
+    "dogs",
+    "ships",
+    "maps",
+    "rocks"
+   ],
+   "sample_words": [
+    "hills",
+    "bugs",
+    "chills"
+   ],
+   "items": [
+    {
+     "text": "fills",
+     "kind": "skill"
+    },
+    {
+     "text": "sits",
+     "kind": "skill"
+    },
+    {
+     "text": "dogs",
+     "kind": "skill"
+    },
+    {
+     "text": "ships",
+     "kind": "skill"
+    },
+    {
+     "text": "maps",
+     "kind": "skill"
+    },
+    {
+     "text": "rocks",
+     "kind": "skill"
+    },
+    {
+     "text": "hills",
+     "kind": "skill"
+    },
+    {
+     "text": "bugs",
+     "kind": "skill"
+    },
+    {
+     "text": "chills",
+     "kind": "skill"
+    },
+    {
+     "text": "cats",
+     "kind": "skill"
+    },
+    {
+     "text": "pigs",
+     "kind": "skill"
+    },
+    {
+     "text": "hens",
+     "kind": "skill"
+    },
+    {
+     "text": "logs",
+     "kind": "skill"
+    },
+    {
+     "text": "mobs",
+     "kind": "skill"
+    },
+    {
+     "text": "cups",
+     "kind": "skill"
+    },
+    {
+     "text": "chips",
+     "kind": "skill"
+    },
+    {
+     "text": "bells",
+     "kind": "skill"
+    },
+    {
+     "text": "docks",
+     "kind": "skill"
+    },
+    {
+     "text": "shops",
+     "kind": "skill"
+    },
+    {
+     "text": "chops",
+     "kind": "skill"
+    },
+    {
+     "text": "hits",
+     "kind": "skill"
+    },
+    {
+     "text": "digs",
+     "kind": "skill"
+    },
+    {
+     "text": "zaps",
+     "kind": "skill"
+    },
+    {
+     "text": "kicks",
+     "kind": "skill"
+    },
+    {
+     "text": "picks",
+     "kind": "skill"
+    },
+    {
+     "text": "yams",
+     "kind": "skill"
+    },
+    {
+     "text": "cans",
+     "kind": "skill"
+    },
+    {
+     "text": "pans",
+     "kind": "skill"
+    },
+    {
+     "text": "vans",
+     "kind": "skill"
+    },
+    {
+     "text": "were",
+     "kind": "trick"
+    },
+    {
+     "text": "are",
+     "kind": "trick"
+    },
+    {
+     "text": "who",
+     "kind": "trick"
+    },
+    {
+     "text": "what",
+     "kind": "trick"
+    },
+    {
+     "text": "when",
+     "kind": "trick"
+    },
+    {
+     "text": "where",
+     "kind": "trick"
+    },
+    {
+     "text": "there",
+     "kind": "trick"
+    },
+    {
+     "text": "here",
+     "kind": "trick"
+    }
+   ],
+   "forge": [
+    {
+     "word": "hills",
+     "blank": "ll",
+     "choices": [
+      "l",
+      "ll"
+     ]
+    },
+    {
+     "word": "chills",
+     "blank": "ch",
+     "choices": [
+      "ch",
+      "sh",
+      "th"
+     ]
+    },
+    {
+     "word": "ships",
+     "blank": "sh",
+     "choices": [
+      "sh",
+      "ch"
+     ]
+    },
+    {
+     "word": "rocks",
+     "blank": "ck",
+     "choices": [
+      "ck",
+      "k"
+     ]
+    },
+    {
+     "word": "bugs",
+     "blank": "g",
+     "choices": [
+      "g",
+      "j"
+     ]
+    },
+    {
+     "word": "dogs",
+     "blank": "d",
+     "choices": [
+      "d",
+      "b"
+     ]
+    },
+    {
+     "word": "maps",
+     "blank": "m",
+     "choices": [
+      "m",
+      "n"
+     ]
+    },
+    {
+     "word": "fills",
+     "blank": "ll",
+     "choices": [
+      "ll",
+      "l"
+     ]
+    },
+    {
+     "word": "zaps",
+     "blank": "z",
+     "choices": [
+      "z",
+      "s"
+     ]
+    },
+    {
+     "word": "chops",
+     "blank": "ch",
+     "choices": [
+      "ch",
+      "sh"
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "text": "The dogs ran to the hills."
+    },
+    {
+     "text": "Where are the mobs?"
+    },
+    {
+     "text": "What is in the box?"
+    },
+    {
+     "text": "Who has the cups?"
+    },
+    {
+     "text": "There are bugs on the rocks."
+    },
+    {
+     "text": "The ships were on the hill."
+    },
+    {
+     "text": "Here are the chips!"
+    },
+    {
+     "text": "Who can hit the mobs?"
+    },
+    {
+     "text": "When can we shop?"
+    }
+   ],
+   "boss": {
+    "overworld": "pillager",
+    "nether": "wither_skeleton"
+   }
+  },
+  {
+   "unit": 7,
+   "title": "Glued sounds ang ing ong ung ank ink onk unk",
+   "skills": [
+    "glued sounds ang ing ong ung ank ink onk unk"
+   ],
+   "graphemes_new": [
+    "ang",
+    "ing",
+    "ong",
+    "ung",
+    "ank",
+    "ink",
+    "onk",
+    "unk"
+   ],
+   "sounds_new": [
+    {
+     "card": "ang",
+     "say": "/ang/ as in bang"
+    },
+    {
+     "card": "ing",
+     "say": "/ing/ as in ring"
+    },
+    {
+     "card": "ong",
+     "say": "/ong/ as in song"
+    },
+    {
+     "card": "ung",
+     "say": "/ung/ as in lung"
+    },
+    {
+     "card": "ank",
+     "say": "/ank/ as in bank"
+    },
+    {
+     "card": "ink",
+     "say": "/ink/ as in pink"
+    },
+    {
+     "card": "onk",
+     "say": "/onk/ as in honk"
+    },
+    {
+     "card": "unk",
+     "say": "/unk/ as in skunk"
+    }
+   ],
+   "trick_words_new": [
+    "why",
+    "by",
+    "my",
+    "try",
+    "put",
+    "two",
+    "too",
+    "very",
+    "also",
+    "some",
+    "come"
+   ],
+   "regular_hfw": [
+    "long",
+    "sing",
+    "ring",
+    "song",
+    "bank",
+    "think"
+   ],
+   "sample_words": [
+    "bang",
+    "bank",
+    "pink",
+    "chunks"
+   ],
+   "items": [
+    {
+     "text": "long",
+     "kind": "skill"
+    },
+    {
+     "text": "sing",
+     "kind": "skill"
+    },
+    {
+     "text": "ring",
+     "kind": "skill"
+    },
+    {
+     "text": "song",
+     "kind": "skill"
+    },
+    {
+     "text": "bank",
+     "kind": "skill"
+    },
+    {
+     "text": "think",
+     "kind": "skill"
+    },
+    {
+     "text": "bang",
+     "kind": "skill"
+    },
+    {
+     "text": "pink",
+     "kind": "skill"
+    },
+    {
+     "text": "chunks",
+     "kind": "skill"
+    },
+    {
+     "text": "rang",
+     "kind": "skill"
+    },
+    {
+     "text": "sang",
+     "kind": "skill"
+    },
+    {
+     "text": "hang",
+     "kind": "skill"
+    },
+    {
+     "text": "fang",
+     "kind": "skill"
+    },
+    {
+     "text": "gang",
+     "kind": "skill"
+    },
+    {
+     "text": "king",
+     "kind": "skill"
+    },
+    {
+     "text": "wing",
+     "kind": "skill"
+    },
+    {
+     "text": "thing",
+     "kind": "skill"
+    },
+    {
+     "text": "gong",
+     "kind": "skill"
+    },
+    {
+     "text": "lung",
+     "kind": "skill"
+    },
+    {
+     "text": "rung",
+     "kind": "skill"
+    },
+    {
+     "text": "hung",
+     "kind": "skill"
+    },
+    {
+     "text": "sung",
+     "kind": "skill"
+    },
+    {
+     "text": "tank",
+     "kind": "skill"
+    },
+    {
+     "text": "sank",
+     "kind": "skill"
+    },
+    {
+     "text": "thank",
+     "kind": "skill"
+    },
+    {
+     "text": "rank",
+     "kind": "skill"
+    },
+    {
+     "text": "sink",
+     "kind": "skill"
+    },
+    {
+     "text": "link",
+     "kind": "skill"
+    },
+    {
+     "text": "wink",
+     "kind": "skill"
+    },
+    {
+     "text": "rink",
+     "kind": "skill"
+    },
+    {
+     "text": "junk",
+     "kind": "skill"
+    },
+    {
+     "text": "sunk",
+     "kind": "skill"
+    },
+    {
+     "text": "bunk",
+     "kind": "skill"
+    },
+    {
+     "text": "honk",
+     "kind": "skill"
+    },
+    {
+     "text": "banks",
+     "kind": "skill"
+    },
+    {
+     "text": "kings",
+     "kind": "skill"
+    },
+    {
+     "text": "rings",
+     "kind": "skill"
+    },
+    {
+     "text": "songs",
+     "kind": "skill"
+    },
+    {
+     "text": "tanks",
+     "kind": "skill"
+    },
+    {
+     "text": "why",
+     "kind": "trick"
+    },
+    {
+     "text": "by",
+     "kind": "trick"
+    },
+    {
+     "text": "my",
+     "kind": "trick"
+    },
+    {
+     "text": "try",
+     "kind": "trick"
+    },
+    {
+     "text": "put",
+     "kind": "trick"
+    },
+    {
+     "text": "two",
+     "kind": "trick"
+    },
+    {
+     "text": "too",
+     "kind": "trick"
+    },
+    {
+     "text": "very",
+     "kind": "trick"
+    },
+    {
+     "text": "also",
+     "kind": "trick"
+    },
+    {
+     "text": "some",
+     "kind": "trick"
+    },
+    {
+     "text": "come",
+     "kind": "trick"
+    }
+   ],
+   "forge": [
+    {
+     "word": "bang",
+     "blank": "ang",
+     "choices": [
+      "ang",
+      "ing",
+      "ong"
+     ]
+    },
+    {
+     "word": "king",
+     "blank": "ing",
+     "choices": [
+      "ing",
+      "ang"
+     ]
+    },
+    {
+     "word": "long",
+     "blank": "ong",
+     "choices": [
+      "ong",
+      "ung"
+     ]
+    },
+    {
+     "word": "lung",
+     "blank": "ung",
+     "choices": [
+      "ung",
+      "ang"
+     ]
+    },
+    {
+     "word": "bank",
+     "blank": "ank",
+     "choices": [
+      "ank",
+      "ink"
+     ]
+    },
+    {
+     "word": "pink",
+     "blank": "ink",
+     "choices": [
+      "ink",
+      "unk"
+     ]
+    },
+    {
+     "word": "honk",
+     "blank": "onk",
+     "choices": [
+      "onk",
+      "unk"
+     ]
+    },
+    {
+     "word": "junk",
+     "blank": "unk",
+     "choices": [
+      "unk",
+      "ank"
+     ]
+    },
+    {
+     "word": "sing",
+     "blank": "ing",
+     "choices": [
+      "ing",
+      "ong"
+     ]
+    },
+    {
+     "word": "song",
+     "blank": "ong",
+     "choices": [
+      "ong",
+      "ang",
+      "ung"
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "text": "The king has a long song."
+    },
+    {
+     "text": "My dog can sing!"
+    },
+    {
+     "text": "Why is the thing pink?"
+    },
+    {
+     "text": "Two kings sang a song."
+    },
+    {
+     "text": "I think the tank is too long."
+    },
+    {
+     "text": "The bat hung on the bank."
+    },
+    {
+     "text": "Put the ring in the bank."
+    },
+    {
+     "text": "Come and sing too!"
+    },
+    {
+     "text": "Why did the bell ring?"
+    }
+   ],
+   "boss": {
+    "overworld": "enderman",
+    "nether": "ghast"
+   }
+  },
+  {
+   "unit": 8,
+   "title": "Blends",
+   "skills": [
+    "consonant blends and digraph blends up to 4 sounds",
+    "-s on 4-sound words",
+    "r-controlled vowel sounds ar or er ir ur (named as sounds only; words with them are not read yet)"
+   ],
+   "graphemes_new": [
+    "blend"
+   ],
+   "sounds_new": [
+    {
+     "card": "ar",
+     "say": "/ar/ as in car"
+    },
+    {
+     "card": "or",
+     "say": "/or/ as in corn"
+    },
+    {
+     "card": "er",
+     "say": "/er/ as in her"
+    },
+    {
+     "card": "ir",
+     "say": "/er/ as in her"
+    },
+    {
+     "card": "ur",
+     "say": "/er/ as in her"
+    }
+   ],
+   "trick_words_new": [
+    "would",
+    "could",
+    "should",
+    "her",
+    "over",
+    "number"
+   ],
+   "regular_hfw": [
+    "and",
+    "best",
+    "milk",
+    "spot",
+    "dress",
+    "small"
+   ],
+   "sample_words": [
+    "bump",
+    "stash",
+    "bled",
+    "past",
+    "pinch",
+    "shrug",
+    "steps"
+   ],
+   "items": [
+    {
+     "text": "and",
+     "kind": "skill"
+    },
+    {
+     "text": "best",
+     "kind": "skill"
+    },
+    {
+     "text": "milk",
+     "kind": "skill"
+    },
+    {
+     "text": "spot",
+     "kind": "skill"
+    },
+    {
+     "text": "dress",
+     "kind": "skill"
+    },
+    {
+     "text": "small",
+     "kind": "skill"
+    },
+    {
+     "text": "bump",
+     "kind": "skill"
+    },
+    {
+     "text": "stash",
+     "kind": "skill"
+    },
+    {
+     "text": "bled",
+     "kind": "skill"
+    },
+    {
+     "text": "past",
+     "kind": "skill"
+    },
+    {
+     "text": "pinch",
+     "kind": "skill"
+    },
+    {
+     "text": "shrug",
+     "kind": "skill"
+    },
+    {
+     "text": "steps",
+     "kind": "skill"
+    },
+    {
+     "text": "stop",
+     "kind": "skill"
+    },
+    {
+     "text": "step",
+     "kind": "skill"
+    },
+    {
+     "text": "flag",
+     "kind": "skill"
+    },
+    {
+     "text": "frog",
+     "kind": "skill"
+    },
+    {
+     "text": "drum",
+     "kind": "skill"
+    },
+    {
+     "text": "clap",
+     "kind": "skill"
+    },
+    {
+     "text": "slip",
+     "kind": "skill"
+    },
+    {
+     "text": "swim",
+     "kind": "skill"
+    },
+    {
+     "text": "crab",
+     "kind": "skill"
+    },
+    {
+     "text": "trap",
+     "kind": "skill"
+    },
+    {
+     "text": "skip",
+     "kind": "skill"
+    },
+    {
+     "text": "snap",
+     "kind": "skill"
+    },
+    {
+     "text": "hand",
+     "kind": "skill"
+    },
+    {
+     "text": "sand",
+     "kind": "skill"
+    },
+    {
+     "text": "lamp",
+     "kind": "skill"
+    },
+    {
+     "text": "jump",
+     "kind": "skill"
+    },
+    {
+     "text": "camp",
+     "kind": "skill"
+    },
+    {
+     "text": "nest",
+     "kind": "skill"
+    },
+    {
+     "text": "fist",
+     "kind": "skill"
+    },
+    {
+     "text": "belt",
+     "kind": "skill"
+    },
+    {
+     "text": "desk",
+     "kind": "skill"
+    },
+    {
+     "text": "tent",
+     "kind": "skill"
+    },
+    {
+     "text": "drums",
+     "kind": "skill"
+    },
+    {
+     "text": "flags",
+     "kind": "skill"
+    },
+    {
+     "text": "frogs",
+     "kind": "skill"
+    },
+    {
+     "text": "crabs",
+     "kind": "skill"
+    },
+    {
+     "text": "nests",
+     "kind": "skill"
+    },
+    {
+     "text": "jumps",
+     "kind": "skill"
+    },
+    {
+     "text": "would",
+     "kind": "trick"
+    },
+    {
+     "text": "could",
+     "kind": "trick"
+    },
+    {
+     "text": "should",
+     "kind": "trick"
+    },
+    {
+     "text": "her",
+     "kind": "trick"
+    },
+    {
+     "text": "over",
+     "kind": "trick"
+    },
+    {
+     "text": "number",
+     "kind": "trick"
+    }
+   ],
+   "forge": [
+    {
+     "word": "stop",
+     "blank": "o",
+     "choices": [
+      "o",
+      "a",
+      "u"
+     ]
+    },
+    {
+     "word": "frog",
+     "blank": "o",
+     "choices": [
+      "o",
+      "a",
+      "i"
+     ]
+    },
+    {
+     "word": "best",
+     "blank": "st",
+     "choices": [
+      "st",
+      "sk",
+      "sp"
+     ]
+    },
+    {
+     "word": "jump",
+     "blank": "mp",
+     "choices": [
+      "mp",
+      "nt",
+      "nd"
+     ]
+    },
+    {
+     "word": "stash",
+     "blank": "sh",
+     "choices": [
+      "sh",
+      "ch",
+      "th"
+     ]
+    },
+    {
+     "word": "pinch",
+     "blank": "ch",
+     "choices": [
+      "ch",
+      "sh"
+     ]
+    },
+    {
+     "word": "shrug",
+     "blank": "u",
+     "choices": [
+      "u",
+      "a",
+      "o"
+     ]
+    },
+    {
+     "word": "bled",
+     "blank": "e",
+     "choices": [
+      "e",
+      "a",
+      "i"
+     ]
+    },
+    {
+     "word": "hand",
+     "blank": "nd",
+     "choices": [
+      "nd",
+      "nt"
+     ]
+    },
+    {
+     "word": "milk",
+     "blank": "i",
+     "choices": [
+      "i",
+      "e",
+      "a"
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "text": "The frog can jump over the log."
+    },
+    {
+     "text": "Her dog is in the sand."
+    },
+    {
+     "text": "I could swim past the crab."
+    },
+    {
+     "text": "The big tent is hot."
+    },
+    {
+     "text": "Should we stop at the spot?"
+    },
+    {
+     "text": "The best crab is in the tank!"
+    },
+    {
+     "text": "I got a number on my hand."
+    },
+    {
+     "text": "Her milk is on the desk."
+    }
+   ],
+   "boss": {
+    "overworld": "elder_guardian",
+    "nether": "blaze"
+   }
+  },
+  {
+   "unit": 9,
+   "title": "Closed syllables",
+   "skills": [
+    "closed syllable (4-sound words)",
+    "closed vs open syllable",
+    "vowel team sounds ai ay ee ea ey oi oy (named as sounds only; words with them are not read yet)"
+   ],
+   "graphemes_new": [
+    "closed"
+   ],
+   "sounds_new": [
+    {
+     "card": "ai",
+     "say": "/ā/ as in rain"
+    },
+    {
+     "card": "ay",
+     "say": "/ā/ as in day"
+    },
+    {
+     "card": "ee",
+     "say": "/ē/ as in bee"
+    },
+    {
+     "card": "ea",
+     "say": "/ē/ as in eat, or /ĕ/ as in head"
+    },
+    {
+     "card": "ey",
+     "say": "/ā/ as in they, or /ē/ as in key"
+    },
+    {
+     "card": "oi",
+     "say": "/oi/ as in coin"
+    },
+    {
+     "card": "oy",
+     "say": "/oi/ as in toy"
+    }
+   ],
+   "trick_words_new": [
+    "say",
+    "says",
+    "see",
+    "between",
+    "each"
+   ],
+   "regular_hfw": [
+    "must",
+    "block",
+    "hand",
+    "left",
+    "wind",
+    "glass"
+   ],
+   "sample_words": [
+    "click",
+    "chunk",
+    "sniffs"
+   ],
+   "items": [
+    {
+     "text": "must",
+     "kind": "regular"
+    },
+    {
+     "text": "block",
+     "kind": "regular"
+    },
+    {
+     "text": "hand",
+     "kind": "regular"
+    },
+    {
+     "text": "left",
+     "kind": "regular"
+    },
+    {
+     "text": "wind",
+     "kind": "regular"
+    },
+    {
+     "text": "glass",
+     "kind": "regular"
+    },
+    {
+     "text": "click",
+     "kind": "regular"
+    },
+    {
+     "text": "chunk",
+     "kind": "regular"
+    },
+    {
+     "text": "sniffs",
+     "kind": "regular"
+    },
+    {
+     "text": "say",
+     "kind": "trick"
+    },
+    {
+     "text": "says",
+     "kind": "trick"
+    },
+    {
+     "text": "see",
+     "kind": "trick"
+    },
+    {
+     "text": "between",
+     "kind": "trick"
+    },
+    {
+     "text": "each",
+     "kind": "trick"
+    },
+    {
+     "text": "stop",
+     "kind": "skill"
+    },
+    {
+     "text": "step",
+     "kind": "skill"
+    },
+    {
+     "text": "flag",
+     "kind": "skill"
+    },
+    {
+     "text": "frog",
+     "kind": "skill"
+    },
+    {
+     "text": "drum",
+     "kind": "skill"
+    },
+    {
+     "text": "clap",
+     "kind": "skill"
+    },
+    {
+     "text": "slip",
+     "kind": "skill"
+    },
+    {
+     "text": "swim",
+     "kind": "skill"
+    },
+    {
+     "text": "crab",
+     "kind": "skill"
+    },
+    {
+     "text": "trap",
+     "kind": "skill"
+    },
+    {
+     "text": "skip",
+     "kind": "skill"
+    },
+    {
+     "text": "snap",
+     "kind": "skill"
+    },
+    {
+     "text": "sand",
+     "kind": "skill"
+    },
+    {
+     "text": "lamp",
+     "kind": "skill"
+    },
+    {
+     "text": "jump",
+     "kind": "skill"
+    },
+    {
+     "text": "camp",
+     "kind": "skill"
+    },
+    {
+     "text": "nest",
+     "kind": "skill"
+    },
+    {
+     "text": "fist",
+     "kind": "skill"
+    },
+    {
+     "text": "belt",
+     "kind": "skill"
+    },
+    {
+     "text": "desk",
+     "kind": "skill"
+    },
+    {
+     "text": "tent",
+     "kind": "skill"
+    },
+    {
+     "text": "grab",
+     "kind": "skill"
+    },
+    {
+     "text": "plug",
+     "kind": "skill"
+    },
+    {
+     "text": "spin",
+     "kind": "skill"
+    },
+    {
+     "text": "trim",
+     "kind": "skill"
+    },
+    {
+     "text": "plum",
+     "kind": "skill"
+    },
+    {
+     "text": "clip",
+     "kind": "skill"
+    },
+    {
+     "text": "drag",
+     "kind": "skill"
+    },
+    {
+     "text": "flap",
+     "kind": "skill"
+    },
+    {
+     "text": "glad",
+     "kind": "skill"
+    },
+    {
+     "text": "grin",
+     "kind": "skill"
+    },
+    {
+     "text": "snug",
+     "kind": "skill"
+    },
+    {
+     "text": "swam",
+     "kind": "skill"
+    },
+    {
+     "text": "twin",
+     "kind": "skill"
+    },
+    {
+     "text": "stuff",
+     "kind": "skill"
+    },
+    {
+     "text": "cliff",
+     "kind": "skill"
+    },
+    {
+     "text": "stick",
+     "kind": "skill"
+    },
+    {
+     "text": "track",
+     "kind": "skill"
+    },
+    {
+     "text": "trick",
+     "kind": "skill"
+    },
+    {
+     "text": "truck",
+     "kind": "skill"
+    },
+    {
+     "text": "brick",
+     "kind": "skill"
+    },
+    {
+     "text": "black",
+     "kind": "skill"
+    },
+    {
+     "text": "press",
+     "kind": "skill"
+    },
+    {
+     "text": "dress",
+     "kind": "skill"
+    },
+    {
+     "text": "class",
+     "kind": "skill"
+    },
+    {
+     "text": "smell",
+     "kind": "skill"
+    },
+    {
+     "text": "spell",
+     "kind": "skill"
+    },
+    {
+     "text": "quilt",
+     "kind": "skill"
+    }
+   ],
+   "forge": [
+    {
+     "word": "swim",
+     "blank": "i",
+     "choices": [
+      "i",
+      "e",
+      "o"
+     ]
+    },
+    {
+     "word": "drum",
+     "blank": "u",
+     "choices": [
+      "u",
+      "a",
+      "o"
+     ]
+    },
+    {
+     "word": "clap",
+     "blank": "a",
+     "choices": [
+      "a",
+      "e",
+      "u"
+     ]
+    },
+    {
+     "word": "glass",
+     "blank": "ss",
+     "choices": [
+      "s",
+      "ss"
+     ]
+    },
+    {
+     "word": "sniff",
+     "blank": "ff",
+     "choices": [
+      "f",
+      "ff"
+     ]
+    },
+    {
+     "word": "click",
+     "blank": "ck",
+     "choices": [
+      "ck",
+      "k"
+     ]
+    },
+    {
+     "word": "chunk",
+     "blank": "unk",
+     "choices": [
+      "unk",
+      "ink",
+      "ank"
+     ]
+    },
+    {
+     "word": "stuff",
+     "blank": "ff",
+     "choices": [
+      "ff",
+      "f"
+     ]
+    },
+    {
+     "word": "dress",
+     "blank": "ss",
+     "choices": [
+      "ss",
+      "s"
+     ]
+    },
+    {
+     "word": "thank",
+     "blank": "ank",
+     "choices": [
+      "ank",
+      "ink",
+      "unk"
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "text": "The frog sat on a big flag."
+    },
+    {
+     "text": "Dad can stand on the black deck."
+    },
+    {
+     "text": "Tim can swim past the crab."
+    },
+    {
+     "text": "Is the glass on the desk?"
+    },
+    {
+     "text": "Dad will pick a lot of cash."
+    },
+    {
+     "text": "Each mob must stop at the tent."
+    },
+    {
+     "text": "See the crab snap the twig."
+    },
+    {
+     "text": "Say it is a trick."
+    },
+    {
+     "text": "Is the plum between the cups?"
+    }
+   ],
+   "boss": {
+    "overworld": "witch",
+    "nether": "magma_cube"
+   }
+  },
+  {
+   "unit": 10,
+   "title": "Five sounds, -ed and -ing",
+   "skills": [
+    "up to 5 sounds",
+    "-s on 5-sound words",
+    "-ed and -ing on closed-syllable bases",
+    "vowel team sounds oa oe ow ou oo ue ew au aw (named as sounds only; words with them are not read yet)"
+   ],
+   "graphemes_new": [
+    "-ed",
+    "-ing",
+    "5sound"
+   ],
+   "sounds_new": [
+    {
+     "card": "oa",
+     "say": "/ō/ as in boat"
+    },
+    {
+     "card": "oe",
+     "say": "/ō/ as in toe"
+    },
+    {
+     "card": "ow",
+     "say": "/ō/ as in snow, or /ow/ as in cow"
+    },
+    {
+     "card": "ou",
+     "say": "/ow/ as in out"
+    },
+    {
+     "card": "oo",
+     "say": "/oo/ as in moon, or /oo/ as in book"
+    },
+    {
+     "card": "ue",
+     "say": "/ū/ as in cue, or /oo/ as in blue"
+    },
+    {
+     "card": "ew",
+     "say": "/ū/ as in few, or /oo/ as in grew"
+    },
+    {
+     "card": "au",
+     "say": "/aw/ as in sauce"
+    },
+    {
+     "card": "aw",
+     "say": "/aw/ as in paw"
+    }
+   ],
+   "trick_words_new": [
+    "any",
+    "many",
+    "how",
+    "now",
+    "down",
+    "out",
+    "about",
+    "our"
+   ],
+   "regular_hfw": [
+    "bring",
+    "plant",
+    "string",
+    "printed",
+    "French",
+    "strong"
+   ],
+   "sample_words": [
+    "stump",
+    "clasp",
+    "strap",
+    "slashing",
+    "blended"
+   ],
+   "items": [
+    {
+     "text": "bring",
+     "kind": "regular"
+    },
+    {
+     "text": "plant",
+     "kind": "skill"
+    },
+    {
+     "text": "string",
+     "kind": "regular"
+    },
+    {
+     "text": "printed",
+     "kind": "skill"
+    },
+    {
+     "text": "French",
+     "kind": "skill"
+    },
+    {
+     "text": "strong",
+     "kind": "regular"
+    },
+    {
+     "text": "stump",
+     "kind": "skill"
+    },
+    {
+     "text": "clasp",
+     "kind": "skill"
+    },
+    {
+     "text": "strap",
+     "kind": "skill"
+    },
+    {
+     "text": "slashing",
+     "kind": "skill"
+    },
+    {
+     "text": "blended",
+     "kind": "skill"
+    },
+    {
+     "text": "jumped",
+     "kind": "skill"
+    },
+    {
+     "text": "jumping",
+     "kind": "skill"
+    },
+    {
+     "text": "helped",
+     "kind": "skill"
+    },
+    {
+     "text": "helping",
+     "kind": "skill"
+    },
+    {
+     "text": "picked",
+     "kind": "skill"
+    },
+    {
+     "text": "kicking",
+     "kind": "skill"
+    },
+    {
+     "text": "camping",
+     "kind": "skill"
+    },
+    {
+     "text": "printing",
+     "kind": "skill"
+    },
+    {
+     "text": "handed",
+     "kind": "skill"
+    },
+    {
+     "text": "any",
+     "kind": "trick"
+    },
+    {
+     "text": "many",
+     "kind": "trick"
+    },
+    {
+     "text": "how",
+     "kind": "trick"
+    },
+    {
+     "text": "now",
+     "kind": "trick"
+    },
+    {
+     "text": "down",
+     "kind": "trick"
+    },
+    {
+     "text": "out",
+     "kind": "trick"
+    },
+    {
+     "text": "about",
+     "kind": "trick"
+    },
+    {
+     "text": "our",
+     "kind": "trick"
+    },
+    {
+     "text": "stand",
+     "kind": "skill"
+    },
+    {
+     "text": "stamp",
+     "kind": "skill"
+    },
+    {
+     "text": "grasp",
+     "kind": "skill"
+    },
+    {
+     "text": "crisp",
+     "kind": "skill"
+    },
+    {
+     "text": "crust",
+     "kind": "skill"
+    },
+    {
+     "text": "trust",
+     "kind": "skill"
+    },
+    {
+     "text": "frost",
+     "kind": "skill"
+    },
+    {
+     "text": "flask",
+     "kind": "skill"
+    },
+    {
+     "text": "blast",
+     "kind": "skill"
+    },
+    {
+     "text": "drift",
+     "kind": "skill"
+    },
+    {
+     "text": "grand",
+     "kind": "skill"
+    },
+    {
+     "text": "brand",
+     "kind": "skill"
+    },
+    {
+     "text": "bland",
+     "kind": "skill"
+    },
+    {
+     "text": "crunch",
+     "kind": "skill"
+    },
+    {
+     "text": "shrimp",
+     "kind": "skill"
+    },
+    {
+     "text": "twist",
+     "kind": "skill"
+    },
+    {
+     "text": "swept",
+     "kind": "skill"
+    },
+    {
+     "text": "slept",
+     "kind": "skill"
+    },
+    {
+     "text": "crept",
+     "kind": "skill"
+    },
+    {
+     "text": "spent",
+     "kind": "skill"
+    },
+    {
+     "text": "scrap",
+     "kind": "skill"
+    },
+    {
+     "text": "split",
+     "kind": "skill"
+    },
+    {
+     "text": "plump",
+     "kind": "skill"
+    },
+    {
+     "text": "clump",
+     "kind": "skill"
+    },
+    {
+     "text": "clamp",
+     "kind": "skill"
+    },
+    {
+     "text": "cramp",
+     "kind": "skill"
+    },
+    {
+     "text": "lifted",
+     "kind": "skill"
+    },
+    {
+     "text": "rested",
+     "kind": "skill"
+    },
+    {
+     "text": "melted",
+     "kind": "skill"
+    },
+    {
+     "text": "rushing",
+     "kind": "skill"
+    },
+    {
+     "text": "camped",
+     "kind": "skill"
+    }
+   ],
+   "forge": [
+    {
+     "word": "jumped",
+     "blank": "ed",
+     "choices": [
+      "ed",
+      "ing"
+     ]
+    },
+    {
+     "word": "helping",
+     "blank": "ing",
+     "choices": [
+      "ing",
+      "ed"
+     ]
+    },
+    {
+     "word": "printed",
+     "blank": "ed",
+     "choices": [
+      "ed",
+      "ing"
+     ]
+    },
+    {
+     "word": "kicking",
+     "blank": "ing",
+     "choices": [
+      "ing",
+      "ed"
+     ]
+    },
+    {
+     "word": "stump",
+     "blank": "mp",
+     "choices": [
+      "mp",
+      "nt",
+      "nd"
+     ]
+    },
+    {
+     "word": "plant",
+     "blank": "nt",
+     "choices": [
+      "nt",
+      "nd",
+      "mp"
+     ]
+    },
+    {
+     "word": "clasp",
+     "blank": "sp",
+     "choices": [
+      "sp",
+      "st",
+      "sk"
+     ]
+    },
+    {
+     "word": "strap",
+     "blank": "a",
+     "choices": [
+      "a",
+      "e",
+      "u"
+     ]
+    },
+    {
+     "word": "crunch",
+     "blank": "ch",
+     "choices": [
+      "ch",
+      "sh",
+      "th"
+     ]
+    },
+    {
+     "word": "stand",
+     "blank": "nd",
+     "choices": [
+      "nd",
+      "nt"
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "text": "I am printing a map."
+    },
+    {
+     "text": "Dad jumped at the mob."
+    },
+    {
+     "text": "Now the mob is out of the tent."
+    },
+    {
+     "text": "The frog is jumping in the sand."
+    },
+    {
+     "text": "The crab is helping Dad."
+    },
+    {
+     "text": "How many crabs can swim?"
+    },
+    {
+     "text": "Tim kicked the strap down."
+    },
+    {
+     "text": "Dad lifted the strong crab."
+    },
+    {
+     "text": "Any mob can stand on the stump."
+    }
+   ],
+   "boss": {
+    "overworld": "warden",
+    "nether": "hoglin"
+   }
+  },
+  {
+   "unit": 11,
+   "title": "Silent e",
+   "skills": [
+    "vowel-consonant-e in one-syllable words",
+    "long vowels"
+   ],
+   "graphemes_new": [
+    "a_e",
+    "e_e",
+    "i_e",
+    "o_e",
+    "u_e"
+   ],
+   "sounds_new": [
+    {
+     "card": "a-e",
+     "say": "long a, as in cake"
+    },
+    {
+     "card": "e-e",
+     "say": "long e, as in these"
+    },
+    {
+     "card": "i-e",
+     "say": "long i, as in bike"
+    },
+    {
+     "card": "o-e",
+     "say": "long o, as in bone"
+    },
+    {
+     "card": "u-e",
+     "say": "long u, as in cute, or /oo/ as in rule"
+    }
+   ],
+   "trick_words_new": [
+    "friend",
+    "other",
+    "another",
+    "none",
+    "nothing"
+   ],
+   "regular_hfw": [
+    "here",
+    "safe",
+    "fine",
+    "those",
+    "use",
+    "wide"
+   ],
+   "sample_words": [
+    "stove",
+    "hope",
+    "caves"
+   ],
+   "items": [
+    {
+     "text": "here",
+     "kind": "skill"
+    },
+    {
+     "text": "safe",
+     "kind": "skill"
+    },
+    {
+     "text": "fine",
+     "kind": "skill"
+    },
+    {
+     "text": "those",
+     "kind": "skill"
+    },
+    {
+     "text": "use",
+     "kind": "skill"
+    },
+    {
+     "text": "wide",
+     "kind": "skill"
+    },
+    {
+     "text": "stove",
+     "kind": "skill"
+    },
+    {
+     "text": "hope",
+     "kind": "skill"
+    },
+    {
+     "text": "caves",
+     "kind": "skill"
+    },
+    {
+     "text": "cave",
+     "kind": "skill"
+    },
+    {
+     "text": "game",
+     "kind": "skill"
+    },
+    {
+     "text": "make",
+     "kind": "skill"
+    },
+    {
+     "text": "take",
+     "kind": "skill"
+    },
+    {
+     "text": "lake",
+     "kind": "skill"
+    },
+    {
+     "text": "cake",
+     "kind": "skill"
+    },
+    {
+     "text": "wave",
+     "kind": "skill"
+    },
+    {
+     "text": "name",
+     "kind": "skill"
+    },
+    {
+     "text": "gate",
+     "kind": "skill"
+    },
+    {
+     "text": "bake",
+     "kind": "skill"
+    },
+    {
+     "text": "stone",
+     "kind": "skill"
+    },
+    {
+     "text": "bone",
+     "kind": "skill"
+    },
+    {
+     "text": "home",
+     "kind": "skill"
+    },
+    {
+     "text": "hole",
+     "kind": "skill"
+    },
+    {
+     "text": "rope",
+     "kind": "skill"
+    },
+    {
+     "text": "nose",
+     "kind": "skill"
+    },
+    {
+     "text": "note",
+     "kind": "skill"
+    },
+    {
+     "text": "vote",
+     "kind": "skill"
+    },
+    {
+     "text": "joke",
+     "kind": "skill"
+    },
+    {
+     "text": "smoke",
+     "kind": "skill"
+    },
+    {
+     "text": "broke",
+     "kind": "skill"
+    },
+    {
+     "text": "pole",
+     "kind": "skill"
+    },
+    {
+     "text": "mole",
+     "kind": "skill"
+    },
+    {
+     "text": "code",
+     "kind": "skill"
+    },
+    {
+     "text": "mine",
+     "kind": "skill"
+    },
+    {
+     "text": "line",
+     "kind": "skill"
+    },
+    {
+     "text": "dive",
+     "kind": "skill"
+    },
+    {
+     "text": "five",
+     "kind": "skill"
+    },
+    {
+     "text": "hide",
+     "kind": "skill"
+    },
+    {
+     "text": "ride",
+     "kind": "skill"
+    },
+    {
+     "text": "slide",
+     "kind": "skill"
+    },
+    {
+     "text": "bike",
+     "kind": "skill"
+    },
+    {
+     "text": "like",
+     "kind": "skill"
+    },
+    {
+     "text": "time",
+     "kind": "skill"
+    },
+    {
+     "text": "pipe",
+     "kind": "skill"
+    },
+    {
+     "text": "tube",
+     "kind": "skill"
+    },
+    {
+     "text": "cube",
+     "kind": "skill"
+    },
+    {
+     "text": "mule",
+     "kind": "skill"
+    },
+    {
+     "text": "cute",
+     "kind": "skill"
+    },
+    {
+     "text": "games",
+     "kind": "skill"
+    },
+    {
+     "text": "stones",
+     "kind": "skill"
+    },
+    {
+     "text": "bones",
+     "kind": "skill"
+    },
+    {
+     "text": "holes",
+     "kind": "skill"
+    },
+    {
+     "text": "jokes",
+     "kind": "skill"
+    },
+    {
+     "text": "friend",
+     "kind": "trick"
+    },
+    {
+     "text": "other",
+     "kind": "trick"
+    },
+    {
+     "text": "another",
+     "kind": "trick"
+    },
+    {
+     "text": "none",
+     "kind": "trick"
+    },
+    {
+     "text": "nothing",
+     "kind": "trick"
+    }
+   ],
+   "forge": [
+    {
+     "word": "safe",
+     "blank": "afe",
+     "choices": [
+      "afe",
+      "af"
+     ]
+    },
+    {
+     "word": "hope",
+     "blank": "ope",
+     "choices": [
+      "ope",
+      "op"
+     ]
+    },
+    {
+     "word": "stove",
+     "blank": "ove",
+     "choices": [
+      "ove",
+      "ov"
+     ]
+    },
+    {
+     "word": "bone",
+     "blank": "one",
+     "choices": [
+      "one",
+      "on"
+     ]
+    },
+    {
+     "word": "cave",
+     "blank": "ave",
+     "choices": [
+      "ave",
+      "av"
+     ]
+    },
+    {
+     "word": "time",
+     "blank": "ime",
+     "choices": [
+      "ime",
+      "im"
+     ]
+    },
+    {
+     "word": "hole",
+     "blank": "ole",
+     "choices": [
+      "ole",
+      "ol"
+     ]
+    },
+    {
+     "word": "wide",
+     "blank": "ide",
+     "choices": [
+      "ide",
+      "id"
+     ]
+    },
+    {
+     "word": "bike",
+     "blank": "ike",
+     "choices": [
+      "ike",
+      "ik"
+     ]
+    },
+    {
+     "word": "cake",
+     "blank": "ake",
+     "choices": [
+      "ake",
+      "ak"
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "text": "Dad made a cake."
+    },
+    {
+     "text": "I like to ride my bike."
+    },
+    {
+     "text": "We hide in a cave."
+    },
+    {
+     "text": "Those stones are fine."
+    },
+    {
+     "text": "Nothing is in the hole."
+    },
+    {
+     "text": "A friend ran home."
+    },
+    {
+     "text": "Some bones are in the cave."
+    },
+    {
+     "text": "Take the rope and dive in!"
+    },
+    {
+     "text": "Another mole is in the hole."
+    }
+   ],
+   "boss": {
+    "overworld": "warden",
+    "nether": "magma_cube"
+   }
+  },
+  {
+   "unit": 12,
+   "title": "Syllables and compound words",
+   "skills": [
+    "syllables in multisyllabic words",
+    "compound words",
+    "syllable division: two closed syllables or closed plus silent e"
+   ],
+   "graphemes_new": [
+    "multisyllable"
+   ],
+   "sounds_new": [],
+   "trick_words_new": [
+    "people",
+    "month",
+    "little",
+    "been",
+    "own",
+    "want",
+    "Mr.",
+    "Mrs."
+   ],
+   "regular_hfw": [
+    "cannot",
+    "until",
+    "visit",
+    "entire",
+    "object",
+    "subject"
+   ],
+   "sample_words": [
+    "sunset",
+    "finish",
+    "reptile"
+   ],
+   "items": [
+    {
+     "text": "cannot",
+     "kind": "skill"
+    },
+    {
+     "text": "until",
+     "kind": "skill"
+    },
+    {
+     "text": "visit",
+     "kind": "skill"
+    },
+    {
+     "text": "entire",
+     "kind": "skill"
+    },
+    {
+     "text": "object",
+     "kind": "skill"
+    },
+    {
+     "text": "subject",
+     "kind": "skill"
+    },
+    {
+     "text": "sunset",
+     "kind": "skill"
+    },
+    {
+     "text": "finish",
+     "kind": "skill"
+    },
+    {
+     "text": "reptile",
+     "kind": "skill"
+    },
+    {
+     "text": "bedbug",
+     "kind": "skill"
+    },
+    {
+     "text": "catfish",
+     "kind": "skill"
+    },
+    {
+     "text": "bobcat",
+     "kind": "skill"
+    },
+    {
+     "text": "pigpen",
+     "kind": "skill"
+    },
+    {
+     "text": "hotdog",
+     "kind": "skill"
+    },
+    {
+     "text": "inside",
+     "kind": "skill"
+    },
+    {
+     "text": "upset",
+     "kind": "skill"
+    },
+    {
+     "text": "magnet",
+     "kind": "skill"
+    },
+    {
+     "text": "napkin",
+     "kind": "skill"
+    },
+    {
+     "text": "basket",
+     "kind": "skill"
+    },
+    {
+     "text": "rabbit",
+     "kind": "skill"
+    },
+    {
+     "text": "picnic",
+     "kind": "skill"
+    },
+    {
+     "text": "dentist",
+     "kind": "skill"
+    },
+    {
+     "text": "contest",
+     "kind": "skill"
+    },
+    {
+     "text": "problem",
+     "kind": "skill"
+    },
+    {
+     "text": "submit",
+     "kind": "skill"
+    },
+    {
+     "text": "insect",
+     "kind": "skill"
+    },
+    {
+     "text": "pumpkin",
+     "kind": "skill"
+    },
+    {
+     "text": "bonfire",
+     "kind": "skill"
+    },
+    {
+     "text": "campfire",
+     "kind": "skill"
+    },
+    {
+     "text": "sunrise",
+     "kind": "skill"
+    },
+    {
+     "text": "cupcake",
+     "kind": "skill"
+    },
+    {
+     "text": "lipstick",
+     "kind": "skill"
+    },
+    {
+     "text": "zigzag",
+     "kind": "skill"
+    },
+    {
+     "text": "chipmunk",
+     "kind": "skill"
+    },
+    {
+     "text": "public",
+     "kind": "skill"
+    },
+    {
+     "text": "pocket",
+     "kind": "skill"
+    },
+    {
+     "text": "people",
+     "kind": "trick"
+    },
+    {
+     "text": "month",
+     "kind": "trick"
+    },
+    {
+     "text": "little",
+     "kind": "trick"
+    },
+    {
+     "text": "been",
+     "kind": "trick"
+    },
+    {
+     "text": "own",
+     "kind": "trick"
+    },
+    {
+     "text": "want",
+     "kind": "trick"
+    },
+    {
+     "text": "Mr.",
+     "kind": "trick"
+    },
+    {
+     "text": "Mrs.",
+     "kind": "trick"
+    }
+   ],
+   "forge": [
+    {
+     "word": "sunset",
+     "blank": "n",
+     "choices": [
+      "n",
+      "m"
+     ]
+    },
+    {
+     "word": "rabbit",
+     "blank": "t",
+     "choices": [
+      "t",
+      "d"
+     ]
+    },
+    {
+     "word": "basket",
+     "blank": "b",
+     "choices": [
+      "b",
+      "d",
+      "p"
+     ]
+    },
+    {
+     "word": "napkin",
+     "blank": "p",
+     "choices": [
+      "p",
+      "b"
+     ]
+    },
+    {
+     "word": "picnic",
+     "blank": "n",
+     "choices": [
+      "n",
+      "m"
+     ]
+    },
+    {
+     "word": "pumpkin",
+     "blank": "m",
+     "choices": [
+      "m",
+      "n"
+     ]
+    },
+    {
+     "word": "insect",
+     "blank": "c",
+     "choices": [
+      "c",
+      "k"
+     ]
+    },
+    {
+     "word": "finish",
+     "blank": "sh",
+     "choices": [
+      "sh",
+      "ch",
+      "th"
+     ]
+    },
+    {
+     "word": "visit",
+     "blank": "v",
+     "choices": [
+      "v",
+      "f"
+     ]
+    },
+    {
+     "word": "object",
+     "blank": "j",
+     "choices": [
+      "j",
+      "g"
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "text": "Mr. Hill has a pumpkin."
+    },
+    {
+     "text": "The people had a picnic."
+    },
+    {
+     "text": "A little rabbit sat in the basket."
+    },
+    {
+     "text": "We visit Dad in a month."
+    },
+    {
+     "text": "I want a hotdog."
+    },
+    {
+     "text": "Mr. Max has been to a campfire."
+    },
+    {
+     "text": "The sunset is on the hill."
+    },
+    {
+     "text": "Mom has her own cupcake."
+    },
+    {
+     "text": "Mrs. Hill sat on the bench."
+    }
+   ],
+   "boss": {
+    "overworld": "ravager",
+    "nether": "wither_skeleton"
+   }
+  },
+  {
+   "unit": 13,
+   "title": "Suffixes on longer words",
+   "skills": [
+    "-s -ing -ed on multisyllabic words",
+    "-es on closed-syllable bases"
+   ],
+   "graphemes_new": [
+    "-es",
+    "multi+-s",
+    "multi+-ing",
+    "multi+-ed"
+   ],
+   "sounds_new": [],
+   "trick_words_new": [
+    "work",
+    "word",
+    "write",
+    "being",
+    "their",
+    "first",
+    "look",
+    "good",
+    "new"
+   ],
+   "regular_hfw": [
+    "insects",
+    "products",
+    "branches",
+    "inches"
+   ],
+   "sample_words": [
+    "trombones",
+    "picnics",
+    "boxes",
+    "finishes"
+   ],
+   "items": [
+    {
+     "text": "insects",
+     "kind": "skill"
+    },
+    {
+     "text": "products",
+     "kind": "skill"
+    },
+    {
+     "text": "branches",
+     "kind": "skill"
+    },
+    {
+     "text": "inches",
+     "kind": "skill"
+    },
+    {
+     "text": "trombones",
+     "kind": "skill"
+    },
+    {
+     "text": "picnics",
+     "kind": "skill"
+    },
+    {
+     "text": "boxes",
+     "kind": "skill"
+    },
+    {
+     "text": "finishes",
+     "kind": "skill"
+    },
+    {
+     "text": "foxes",
+     "kind": "skill"
+    },
+    {
+     "text": "dishes",
+     "kind": "skill"
+    },
+    {
+     "text": "wishes",
+     "kind": "skill"
+    },
+    {
+     "text": "brushes",
+     "kind": "skill"
+    },
+    {
+     "text": "buses",
+     "kind": "skill"
+    },
+    {
+     "text": "crashes",
+     "kind": "skill"
+    },
+    {
+     "text": "glasses",
+     "kind": "skill"
+    },
+    {
+     "text": "kisses",
+     "kind": "skill"
+    },
+    {
+     "text": "passes",
+     "kind": "skill"
+    },
+    {
+     "text": "misses",
+     "kind": "skill"
+    },
+    {
+     "text": "buzzes",
+     "kind": "skill"
+    },
+    {
+     "text": "mixes",
+     "kind": "skill"
+    },
+    {
+     "text": "fixes",
+     "kind": "skill"
+    },
+    {
+     "text": "benches",
+     "kind": "skill"
+    },
+    {
+     "text": "lunches",
+     "kind": "skill"
+    },
+    {
+     "text": "ranches",
+     "kind": "skill"
+    },
+    {
+     "text": "baskets",
+     "kind": "skill"
+    },
+    {
+     "text": "rabbits",
+     "kind": "skill"
+    },
+    {
+     "text": "pumpkins",
+     "kind": "skill"
+    },
+    {
+     "text": "napkins",
+     "kind": "skill"
+    },
+    {
+     "text": "sunsets",
+     "kind": "skill"
+    },
+    {
+     "text": "visiting",
+     "kind": "skill"
+    },
+    {
+     "text": "finishing",
+     "kind": "skill"
+    },
+    {
+     "text": "insisting",
+     "kind": "skill"
+    },
+    {
+     "text": "visited",
+     "kind": "skill"
+    },
+    {
+     "text": "finished",
+     "kind": "skill"
+    },
+    {
+     "text": "insisted",
+     "kind": "skill"
+    },
+    {
+     "text": "rested",
+     "kind": "regular"
+    },
+    {
+     "text": "work",
+     "kind": "trick"
+    },
+    {
+     "text": "word",
+     "kind": "trick"
+    },
+    {
+     "text": "write",
+     "kind": "trick"
+    },
+    {
+     "text": "being",
+     "kind": "trick"
+    },
+    {
+     "text": "their",
+     "kind": "trick"
+    },
+    {
+     "text": "first",
+     "kind": "trick"
+    },
+    {
+     "text": "look",
+     "kind": "trick"
+    },
+    {
+     "text": "good",
+     "kind": "trick"
+    },
+    {
+     "text": "new",
+     "kind": "trick"
+    }
+   ],
+   "forge": [
+    {
+     "word": "boxes",
+     "blank": "es",
+     "choices": [
+      "s",
+      "es"
+     ]
+    },
+    {
+     "word": "foxes",
+     "blank": "es",
+     "choices": [
+      "s",
+      "es"
+     ]
+    },
+    {
+     "word": "inches",
+     "blank": "es",
+     "choices": [
+      "s",
+      "es"
+     ]
+    },
+    {
+     "word": "dishes",
+     "blank": "es",
+     "choices": [
+      "s",
+      "es"
+     ]
+    },
+    {
+     "word": "wishes",
+     "blank": "es",
+     "choices": [
+      "s",
+      "es"
+     ]
+    },
+    {
+     "word": "glasses",
+     "blank": "es",
+     "choices": [
+      "s",
+      "es"
+     ]
+    },
+    {
+     "word": "benches",
+     "blank": "es",
+     "choices": [
+      "s",
+      "es"
+     ]
+    },
+    {
+     "word": "finished",
+     "blank": "ed",
+     "choices": [
+      "ed",
+      "ing"
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "text": "Look at the insects in the boxes."
+    },
+    {
+     "text": "Their pumpkins are good."
+    },
+    {
+     "text": "The new products were in the baskets."
+    },
+    {
+     "text": "Dad finished his work."
+    },
+    {
+     "text": "Their rabbits sit in the boxes."
+    },
+    {
+     "text": "Dad fixes the benches."
+    },
+    {
+     "text": "The first people visited the cave."
+    },
+    {
+     "text": "The new dog is good."
+    }
+   ],
+   "boss": {
+    "overworld": "phantom",
+    "nether": "ghast"
+   }
+  },
+  {
+   "unit": 14,
+   "title": "Review of all word structures",
+   "skills": [
+    "review of all word structures"
+   ],
+   "graphemes_new": [
+    "review"
+   ],
+   "sounds_new": [],
+   "trick_words_new": [
+    "water",
+    "called",
+    "day",
+    "may",
+    "way"
+   ],
+   "regular_hfw": [
+    "fact",
+    "stop",
+    "stand",
+    "drive",
+    "expect",
+    "products"
+   ],
+   "sample_words": [
+    "blinks",
+    "slashing",
+    "blended",
+    "disrupted",
+    "insisting",
+    "disputes"
+   ],
+   "items": [
+    {
+     "text": "fact",
+     "kind": "skill"
+    },
+    {
+     "text": "stop",
+     "kind": "skill"
+    },
+    {
+     "text": "stand",
+     "kind": "skill"
+    },
+    {
+     "text": "drive",
+     "kind": "skill"
+    },
+    {
+     "text": "expect",
+     "kind": "skill"
+    },
+    {
+     "text": "products",
+     "kind": "skill"
+    },
+    {
+     "text": "blinks",
+     "kind": "skill"
+    },
+    {
+     "text": "slashing",
+     "kind": "skill"
+    },
+    {
+     "text": "blended",
+     "kind": "skill"
+    },
+    {
+     "text": "disrupted",
+     "kind": "skill"
+    },
+    {
+     "text": "insisting",
+     "kind": "skill"
+    },
+    {
+     "text": "disputes",
+     "kind": "skill"
+    },
+    {
+     "text": "stands",
+     "kind": "skill"
+    },
+    {
+     "text": "stops",
+     "kind": "skill"
+    },
+    {
+     "text": "drives",
+     "kind": "skill"
+    },
+    {
+     "text": "expects",
+     "kind": "skill"
+    },
+    {
+     "text": "slashed",
+     "kind": "skill"
+    },
+    {
+     "text": "jumping",
+     "kind": "skill"
+    },
+    {
+     "text": "camping",
+     "kind": "skill"
+    },
+    {
+     "text": "rabbits",
+     "kind": "skill"
+    },
+    {
+     "text": "blinking",
+     "kind": "skill"
+    },
+    {
+     "text": "printing",
+     "kind": "skill"
+    },
+    {
+     "text": "brushes",
+     "kind": "skill"
+    },
+    {
+     "text": "crashes",
+     "kind": "skill"
+    },
+    {
+     "text": "picnics",
+     "kind": "skill"
+    },
+    {
+     "text": "sunsets",
+     "kind": "skill"
+    },
+    {
+     "text": "pumpkins",
+     "kind": "skill"
+    },
+    {
+     "text": "campfire",
+     "kind": "skill"
+    },
+    {
+     "text": "handed",
+     "kind": "skill"
+    },
+    {
+     "text": "lifted",
+     "kind": "skill"
+    },
+    {
+     "text": "rested",
+     "kind": "skill"
+    },
+    {
+     "text": "crunch",
+     "kind": "skill"
+    },
+    {
+     "text": "strong",
+     "kind": "skill"
+    },
+    {
+     "text": "thinking",
+     "kind": "skill"
+    },
+    {
+     "text": "water",
+     "kind": "trick"
+    },
+    {
+     "text": "called",
+     "kind": "trick"
+    },
+    {
+     "text": "day",
+     "kind": "trick"
+    },
+    {
+     "text": "may",
+     "kind": "trick"
+    },
+    {
+     "text": "way",
+     "kind": "trick"
+    }
+   ],
+   "forge": [
+    {
+     "word": "fact",
+     "blank": "a",
+     "choices": [
+      "a",
+      "e",
+      "o"
+     ]
+    },
+    {
+     "word": "stop",
+     "blank": "o",
+     "choices": [
+      "o",
+      "a",
+      "u"
+     ]
+    },
+    {
+     "word": "stand",
+     "blank": "an",
+     "choices": [
+      "an",
+      "am"
+     ]
+    },
+    {
+     "word": "drive",
+     "blank": "ive",
+     "choices": [
+      "ive",
+      "iv"
+     ]
+    },
+    {
+     "word": "strong",
+     "blank": "ong",
+     "choices": [
+      "ong",
+      "ang",
+      "ung"
+     ]
+    },
+    {
+     "word": "products",
+     "blank": "s",
+     "choices": [
+      "s",
+      "es"
+     ]
+    },
+    {
+     "word": "blinks",
+     "blank": "ink",
+     "choices": [
+      "ink",
+      "onk",
+      "unk"
+     ]
+    },
+    {
+     "word": "slashing",
+     "blank": "ing",
+     "choices": [
+      "ing",
+      "ang"
+     ]
+    },
+    {
+     "word": "blended",
+     "blank": "ed",
+     "choices": [
+      "ed",
+      "ing"
+     ]
+    },
+    {
+     "word": "insisting",
+     "blank": "ing",
+     "choices": [
+      "ing",
+      "ang"
+     ]
+    }
+   ],
+   "sentences": [
+    {
+     "text": "Dad slashed the big mob."
+    },
+    {
+     "text": "The mob stands on the hill and blinks."
+    },
+    {
+     "text": "Dad got water in the cave."
+    },
+    {
+     "text": "The mob may stop at the gate."
+    },
+    {
+     "text": "Dad called me."
+    },
+    {
+     "text": "Stand by me."
+    },
+    {
+     "text": "Drive the van to the lake."
+    },
+    {
+     "text": "She expects the crab to snap."
+    },
+    {
+     "text": "Mr. Hill slashed the branches."
+    }
+   ],
+   "boss": {
+    "overworld": "ender_dragon",
+    "nether": "wither"
+   }
+  }
+ ]
+}

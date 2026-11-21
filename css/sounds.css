@@ -1,0 +1,33 @@
+/* Witch's Sound Potions (screens/sounds.js). Layout (mirrors battle.css: .play is a flex column, so rows set flex-direction) and
+   the potion splash. No red anywhere; under prefers-reduced-motion the flight is dropped and the splash is a short fade. */
+.sounds-pick { display: flex; flex-direction: row; gap: 40px; justify-content: center; align-items: stretch; flex-wrap: wrap; padding: 24px; }
+.sounds-pick .btn.big { display: flex; flex-direction: column; align-items: center; gap: 12px; min-width: 260px; }
+.sounds-pick .pick-sub { font-size: 20px; }
+.sounds-pick .mob-canvas { height: 110px; }
+.sounds-one { display: flex; flex-direction: row; justify-content: center; align-items: flex-end; min-height: 100%; }
+.sounds-one .mob-stage { animation: sounds-in .8s ease-out; }
+.sounds-row { display: flex; flex-direction: row; justify-content: center; align-items: flex-end; gap: clamp(16px, 4vw, 60px); flex-wrap: wrap; }
+.sounds-row .mob-stage { cursor: pointer; animation: sounds-rise .7s ease-out backwards; }
+.sounds-row .mob-stage:nth-child(2) { animation-delay: .12s; }
+.sounds-row .mob-stage:nth-child(3) { animation-delay: .24s; }
+.sounds-row .mob-stage.shuffle-off { animation: sounds-away .6s ease-in forwards; pointer-events: none; }
+@keyframes sounds-in { from { transform: translateX(-60vw); } to { transform: translateX(0); } }
+@keyframes sounds-rise { from { transform: translateY(40px); opacity: 0; } to { transform: none; opacity: 1; } }
+@keyframes sounds-away { to { transform: translateX(40vw); opacity: 0; } }
+@keyframes sounds-fade { to { opacity: 0; } }
+
+/* The potion: a flask arcs in from the lower left, then a purple-green splash ring bursts over the mob. */
+.potion-flask { position: absolute; left: 50%; bottom: 40%; width: 26px; height: 34px; margin-left: -13px; z-index: 5; pointer-events: none;
+  background: linear-gradient(#e9f7ff 0 28%, #7be07a 28% 100%); border-radius: 6px 6px 12px 12px; box-shadow: 0 0 0 3px var(--ink), 0 0 12px #9bff9b;
+  animation: potion-fly .45s ease-in forwards; }
+.potion-splash { position: absolute; left: 50%; top: 40%; width: 60px; height: 60px; margin: -30px 0 0 -30px; z-index: 5; pointer-events: none; border-radius: 50%;
+  background: radial-gradient(circle, rgba(190, 120, 255, .85) 0 35%, rgba(120, 230, 120, .7) 36% 60%, transparent 62%);
+  box-shadow: 0 0 0 4px rgba(123, 224, 122, .6); animation: potion-burst .5s ease-out forwards; }
+@keyframes potion-fly { from { transform: translate(-140px, 60px) rotate(-60deg); } to { transform: translate(0, -40px) rotate(200deg); } }
+@keyframes potion-burst { from { transform: scale(.3); opacity: 1; } to { transform: scale(3.4); opacity: 0; } }
+@media (prefers-reduced-motion: reduce) {
+  .sounds-one .mob-stage, .sounds-row .mob-stage { animation: none; }
+  .sounds-row .mob-stage.shuffle-off { animation: sounds-fade .25s ease-in forwards; }
+  .potion-flask { display: none; }
+  .potion-splash { animation: sounds-fade .25s ease-out forwards; transform: scale(2); }
+}

@@ -1,0 +1,31 @@
+/* Sword Forge (app/js/screens/forge.js). Linked by forge.js itself; the merge step may also add
+   <link rel="stylesheet" href="css/forge.css"> to index.html (forge.js then does not add a second one). */
+.forge { display: flex; flex-direction: column; align-items: center; gap: clamp(8px, 2vh, 24px); width: 100%; }
+.forge-top { display: flex; align-items: flex-end; justify-content: center; gap: clamp(20px, 6vw, 80px); }
+
+/* The sword: a vertical blade with 10 notches that light up one by one; glow strength follows --glow (0..10). */
+.sword { --g: calc(var(--glow, 0) / 10); position: relative; display: flex; flex-direction: column; align-items: center; height: clamp(150px, 30vh, 280px); }
+.sword .blade { display: flex; flex-direction: column-reverse; justify-content: space-between; width: clamp(26px, 4vh, 44px); flex: 1; padding: 6px 0; background: #b9bec8; box-shadow: inset -5px 0 0 #8a909c, 0 0 0 4px var(--ink), 0 0 calc(var(--g) * 26px) calc(var(--g) * 6px) rgba(120, 220, 255, calc(.15 + var(--g) * .85)); clip-path: polygon(50% 0, 100% 10%, 100% 100%, 0 100%, 0 10%); filter: brightness(calc(.85 + var(--g) * .5)); transition: filter .5s ease, box-shadow .5s ease; }
+.sword .notch { display: block; height: 6%; margin: 0 22%; background: #6b7080; }
+.sword .notch.lit { background: #7fe9ff; box-shadow: 0 0 8px #7fe9ff; }
+.sword .guard { width: clamp(70px, 11vh, 120px); height: 14px; background: #8a5a2b; box-shadow: inset 0 -4px 0 #5e3b17, 0 0 0 3px var(--ink); }
+.sword .hilt { width: 16px; height: clamp(24px, 5vh, 46px); background: #5e3b17; box-shadow: 0 0 0 3px var(--ink); }
+
+/* The anvil: the word sits on it; the blank is an empty slot the tile's letters drop into. */
+.anvil { padding: clamp(10px, 2vh, 22px) clamp(24px, 5vw, 60px); background: #4a4d55; box-shadow: inset 0 -10px 0 #2f3137, 0 0 0 5px var(--ink); }
+.forge-word { display: flex; align-items: baseline; justify-content: center; font-size: clamp(64px, 14vh, 130px); line-height: 1.1; font-weight: 700; color: #fff; text-shadow: 3px 3px 0 var(--ink); }
+.anvil-slot { display: inline-block; min-width: 1.1ch; margin: 0 .08em; height: .95em; border-bottom: .09em solid #ffd23a; background: rgba(0, 0, 0, .35); box-shadow: inset 0 0 0 3px #ffd23a; padding: 0 .12em; text-align: center; }
+.anvil-slot.filled { background: transparent; box-shadow: none; color: #ffd23a; }
+.anvil-slot.drop { animation: forge-drop .45s ease-in; }
+@keyframes forge-drop { 0% { transform: translateY(-120%); opacity: 0; } 70% { transform: translateY(8%); opacity: 1; } 100% { transform: translateY(0); } }
+
+.forge-tiles { display: flex; justify-content: center; gap: clamp(16px, 3vw, 40px); flex-wrap: wrap; }
+.forge-tile:disabled:not(.tried) { opacity: 1; }
+.forge-tile.tried { opacity: .45; }
+.forge-tile.bounce { animation: forge-bounce .5s ease-out; }
+@keyframes forge-bounce { 0% { transform: translateY(0); } 25% { transform: translateY(-70px) rotate(-6deg); } 50% { transform: translateY(0) rotate(3deg); } 70% { transform: translateY(-22px); } 100% { transform: translateY(0) rotate(0); } }
+
+@media (prefers-reduced-motion: reduce) {
+  .sword .blade { transition: none; }
+  .anvil-slot.drop, .forge-tile.bounce { animation: none; }
+}

@@ -1,0 +1,17 @@
+/* Trick Word Ambush (app/js/screens/ambush.js): skeletons pop out from behind blocks. Loaded by the screen itself. */
+.ambush-spot { display: flex; flex-direction: column; align-items: stretch; width: min(760px, 92vw); margin: 0 auto; }
+.ambush-pop { position: relative; display: flex; justify-content: center; overflow: hidden; padding: 10px 0 8px; }
+.ambush-pop > .mob-stage { transition: transform .45s ease-out; }
+.ambush-pop[data-col="0"] > .mob-stage { translate: -34% 0; }
+.ambush-pop[data-col="1"] > .mob-stage { translate: 0 0; }
+.ambush-pop[data-col="2"] > .mob-stage { translate: 34% 0; }
+.ambush-pop[data-pose="down"] > .mob-stage { transform: translateY(115%); }
+.ambush-pop[data-pose="up"] > .mob-stage { transform: translateY(0); }
+.ambush-row { display: flex; position: relative; z-index: 3; }
+.ambush-block { flex: 1 1 0; height: clamp(56px, 11vh, 110px); box-shadow: inset -6px -6px 0 rgba(0,0,0,.28), inset 5px 5px 0 rgba(255,255,255,.14), 0 0 0 4px var(--ink); }
+.ambush-block.cobblestone { background-color: #7d7d7d; background-image: var(--tex-stone, none); background-size: 64px; }
+.ambush-block.netherrack { background-color: #6b2d2d; background-image: repeating-linear-gradient(45deg, rgba(0,0,0,.18) 0 6px, transparent 6px 14px), repeating-linear-gradient(-30deg, rgba(255,90,70,.14) 0 5px, transparent 5px 12px); }
+@media (prefers-reduced-motion: reduce) {
+  .ambush-pop > .mob-stage { transition: opacity .1s linear; }
+  .ambush-pop[data-pose="down"] > .mob-stage { transform: none; opacity: 0; }
+}
